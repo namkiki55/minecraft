@@ -6,7 +6,7 @@ database:
     typeOfDatabase: MySQL
     #MySQL database type connection details.
     mysql:
-        host: 203.158.101.9
+        host: localhost
         port: 3306
         databaseName: 'villacraft'
         tableName: 'meb_accounts'
