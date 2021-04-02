@@ -13,9 +13,9 @@ DataSource:
     # Connect to MySQL database over SSL
     mySQLUseSSL: true
     # Username to connect to the MySQL database
-    mySQLUsername: 'root'
+    mySQLUsername: 'sharker'
     # Password to connect to the MySQL database
-    mySQLPassword: ''
+    mySQLPassword: 'P@ssw0rd1234'
     # Database Name, use with converters or as SQLITE database name
     mySQLDatabase: 'villacraft'
     # Table of the database
