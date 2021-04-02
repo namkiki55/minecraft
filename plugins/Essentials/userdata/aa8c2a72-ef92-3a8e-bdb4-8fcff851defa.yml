@@ -1,0 +1,20 @@
+lastAccountName: GGHJKL
+timestamps:
+  login: 1611025714705
+  logout: 1611025723363
+ipAddress: 127.0.0.1
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+logoutlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+money: '2525000'

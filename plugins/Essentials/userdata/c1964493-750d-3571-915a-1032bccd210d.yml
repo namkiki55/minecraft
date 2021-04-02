@@ -1,0 +1,21 @@
+lastAccountName: FortNight_CH
+timestamps:
+  login: 1613446925717
+  lastteleport: 1613447324030
+  logout: 1613447676008
+ipAddress: 49.230.30.206
+lastlocation:
+  world: Survival1
+  x: 1454.486348692999
+  y: 68.0
+  z: -392.74304566281563
+  yaw: 143.08813
+  pitch: 14.326718
+money: '25500'
+logoutlocation:
+  world: newspawn
+  x: 1392.5714138206886
+  y: 78.5
+  z: 258.5741708449085
+  yaw: 2.459998
+  pitch: 19.029295

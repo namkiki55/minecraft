@@ -1,0 +1,20 @@
+lastAccountName: Wissarut
+timestamps:
+  login: 1617289530093
+  logout: 1617289496890
+ipAddress: 172.16.4.106
+lastlocation:
+  world: world
+  x: 22.847855119052447
+  y: 69.0
+  z: 238.90399716501526
+  yaw: 191.24997
+  pitch: -17.70001
+money: '1100000.0'
+logoutlocation:
+  world: world
+  x: 21.671401235692244
+  y: 68.0
+  z: 239.5326379732659
+  yaw: 186.60004
+  pitch: 15.599997

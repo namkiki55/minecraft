@@ -1,0 +1,20 @@
+lastAccountName: Hoap
+timestamps:
+  login: 1612364032138
+  logout: 1612364069030
+ipAddress: 223.205.220.1
+lastlocation:
+  world: world
+  x: -705.5
+  y: 68.0
+  z: 409.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1427.4207450625343
+  y: 78.0
+  z: 233.6298970107492
+  yaw: -298.34137
+  pitch: 18.616793
+money: '2525000'

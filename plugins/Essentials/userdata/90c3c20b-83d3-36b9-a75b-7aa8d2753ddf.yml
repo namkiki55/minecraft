@@ -1,0 +1,20 @@
+lastAccountName: Non_ZaGammer
+timestamps:
+  login: 1611015945073
+  logout: 1611015983533
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 134.59331447582133
+  y: 75.0
+  z: 278.64681690796357
+  yaw: -218.48949
+  pitch: 18.995445
+logoutlocation:
+  world: newspawn
+  x: 1479.9376691727068
+  y: 82.0
+  z: 265.89470079041354
+  yaw: -277.35123
+  pitch: 7.4186563
+money: '2525000'

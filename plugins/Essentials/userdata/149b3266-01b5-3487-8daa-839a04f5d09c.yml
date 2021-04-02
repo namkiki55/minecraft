@@ -1,0 +1,20 @@
+lastAccountName: happy_jms
+timestamps:
+  login: 1610910275134
+  logout: 1610910715705
+ipAddress: 127.0.0.1
+lastlocation:
+  world: newspawn
+  x: 1475.4865469471915
+  y: 83.0
+  z: 266.6252190251414
+  yaw: 90.62384
+  pitch: 3.3654325
+logoutlocation:
+  world: world
+  x: 138.12725037941254
+  y: 64.0
+  z: 334.63327927733746
+  yaw: 308.4002
+  pitch: 21.749985
+money: '2525000'

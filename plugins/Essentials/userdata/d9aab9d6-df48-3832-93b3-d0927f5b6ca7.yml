@@ -1,0 +1,20 @@
+lastAccountName: smais55
+timestamps:
+  login: 1614659586088
+  logout: 1614659602910
+ipAddress: 184.22.56.42
+lastlocation:
+  world: world
+  x: -704.5
+  y: -1.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1436.5224914150358
+  y: 78.0
+  z: 254.5159075484261
+  yaw: 84.00861
+  pitch: -5.3832364
+money: '25000'

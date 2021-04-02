@@ -1,0 +1,20 @@
+lastAccountName: ZackZA
+timestamps:
+  login: 1612705493902
+  logout: 1612705493952
+ipAddress: 1.2.228.150
+lastlocation:
+  world: world
+  x: -713.5
+  y: 67.0
+  z: 411.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1476.586639450838
+  y: 82.0
+  z: 263.2708287075699
+  yaw: -62.241417
+  pitch: 37.666786
+money: '2525000'

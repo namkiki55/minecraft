@@ -1,0 +1,20 @@
+lastAccountName: lenid102
+timestamps:
+  login: 1611988803847
+  logout: 1611988822468
+ipAddress: 184.22.94.40
+lastlocation:
+  world: world
+  x: -706.5
+  y: 68.0
+  z: 406.5
+  yaw: 0.15146968
+  pitch: 0.98455304
+logoutlocation:
+  world: newspawn
+  x: 1443.0510689934902
+  y: 77.0
+  z: 257.30000001192093
+  yaw: 177.02737
+  pitch: 17.983973
+money: '2525000'

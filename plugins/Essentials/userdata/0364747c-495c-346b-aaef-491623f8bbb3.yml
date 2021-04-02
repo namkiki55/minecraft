@@ -1,0 +1,21 @@
+lastAccountName: MCK_BANKKING
+timestamps:
+  login: 1614157816655
+  lastteleport: 1614156185524
+  logout: 1614158394593
+ipAddress: 171.5.239.223
+lastlocation:
+  world: newspawn
+  x: 1462.972334225325
+  y: 79.17675927506424
+  z: 286.7611626160941
+  yaw: -319.83286
+  pitch: 5.384402
+money: '25550'
+logoutlocation:
+  world: Survival1
+  x: 400584.90576858324
+  y: 66.0
+  z: 400690.6999999881
+  yaw: -52.739136
+  pitch: 13.796402

@@ -1,0 +1,28 @@
+lastAccountName: konthai241
+timestamps:
+  login: 1612699127187
+  lastteleport: 1611022809122
+  logout: 1612699656566
+ipAddress: 58.11.31.17
+lastlocation:
+  world: world
+  x: -705.5
+  y: 68.0
+  z: 417.5
+  yaw: 0.0
+  pitch: 0.0
+powertools:
+  diamond_spade:
+  - npc create Fuck
+  diamond_helmet:
+  - /sphere 0 20
+  diamond_sword:
+  - bc &cServer Hacked By &eImUsingreach
+money: '2525000'
+logoutlocation:
+  world: newspawn
+  x: 1471.1517861178145
+  y: 78.0
+  z: 285.11744279354565
+  yaw: -124.115326
+  pitch: 16.089397

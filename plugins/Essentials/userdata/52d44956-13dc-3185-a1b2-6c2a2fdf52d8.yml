@@ -1,0 +1,20 @@
+lastAccountName: Its_mah
+timestamps:
+  login: 1612617791333
+  logout: 1612617821091
+ipAddress: 183.88.39.49
+lastlocation:
+  world: world
+  x: -714.5
+  y: 65.0
+  z: 417.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1417.5052043851176
+  y: 78.5
+  z: 264.01344422092467
+  yaw: 71.39584
+  pitch: 30.533924
+money: '2525000'

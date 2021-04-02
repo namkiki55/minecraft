@@ -1,0 +1,20 @@
+lastAccountName: JupiterCraftTH
+timestamps:
+  login: 1613105315074
+  logout: 1613105319137
+ipAddress: 223.206.233.16
+lastlocation:
+  world: world
+  x: -697.5
+  y: 66.0
+  z: 398.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1420.5542778381785
+  y: 64.0
+  z: 256.30000001192093
+  yaw: -276.78442
+  pitch: 6.6306486
+money: '2525000'

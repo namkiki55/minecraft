@@ -1,0 +1,20 @@
+lastAccountName: MrDaling
+timestamps:
+  login: 1612846565298
+  logout: 1612846584810
+ipAddress: 110.169.12.184
+lastlocation:
+  world: world
+  x: -714.5
+  y: 67.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1475.4044207491338
+  y: 82.0
+  z: 268.34563947622405
+  yaw: -240.60004
+  pitch: 32.550007
+money: '2525000'

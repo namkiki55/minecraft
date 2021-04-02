@@ -1,0 +1,47 @@
+lastAccountName: GunzaYT
+timestamps:
+  login: 1616225963050
+  logout: 1616226580637
+  lastteleport: 1616225970967
+ipAddress: 124.120.116.190
+lastlocation:
+  world: Survival1
+  x: 418.2898332324523
+  y: 72.0
+  z: -375.4485113140944
+  yaw: 100.20042
+  pitch: 48.600216
+logoutlocation:
+  world: Survival1
+  x: 122.02796933136759
+  y: 66.7522482396807
+  z: -12.050392512823995
+  yaw: 3.3597412
+  pitch: 24.30022
+homes:
+  home:
+    world: Survival1
+    x: 167.6726502076329
+    y: 63.0
+    z: -57.275355366365105
+    yaw: -273.24072
+    pitch: 28.200064
+  s:
+    world: Survival1
+    x: -1601.189955698337
+    y: 89.0
+    z: 371.3663233451445
+    yaw: -82.80826
+    pitch: 64.08906
+  a:
+    world: Survival1
+    x: 160.60706097623753
+    y: 5.0
+    z: -61.6245162419427
+    yaw: 275.7188
+    pitch: 14.539588
+money: '2525000.0'
+nickname: "\xa7c\xa7lP\xa76\xa7lN\xa7e\xa7la\xa7a\xa7lm\xa7d\xa7lC\xa7b\xa7la\xa7\
+  a\xa7ls\xa7e\xa7lt\xa76\xa7le\xa7c\xa7lr"
+godmode: false
+teleportenabled: true

@@ -1,0 +1,29 @@
+lastAccountName: OpaLP
+timestamps:
+  login: 1616252026716
+  lastteleport: 1616237553840
+  logout: 1616252976262
+ipAddress: 184.22.160.235
+lastlocation:
+  world: newspawn
+  x: 1460.5130137738736
+  y: 78.0
+  z: 293.80462943194016
+  yaw: 63.80532
+  pitch: 2.7971365
+money: '253364.0'
+logoutlocation:
+  world: Survival1
+  x: 2052.2853273757064
+  y: 92.0
+  z: -318.5457079907917
+  yaw: 273.63306
+  pitch: 9.899861
+homes:
+  home:
+    world: Survival1
+    x: 2054.448350029378
+    y: 92.0
+    z: -317.9844881727442
+    yaw: 357.6294
+    pitch: 1.8001121

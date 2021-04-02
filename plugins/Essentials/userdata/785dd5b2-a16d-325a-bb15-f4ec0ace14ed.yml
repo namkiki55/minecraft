@@ -1,0 +1,29 @@
+lastAccountName: Takeshi
+timestamps:
+  login: 1612167129968
+  lastteleport: 1612167271635
+  logout: 1612167999481
+ipAddress: 159.192.96.114
+lastlocation:
+  world: newspawn
+  x: 1448.1687058350453
+  y: 78.0
+  z: 285.2300204695229
+  yaw: -242.84113
+  pitch: 26.866785
+homes:
+  home:
+    world: Survival1
+    x: 1541.300000011921
+    y: 10.0
+    z: -96.35030789207094
+    yaw: 238.26575
+    pitch: 15.750026
+logoutlocation:
+  world: Survival1
+  x: 1542.8796206599968
+  y: 10.0
+  z: -97.35291135650616
+  yaw: 305.46582
+  pitch: 8.999988
+money: '2525000'

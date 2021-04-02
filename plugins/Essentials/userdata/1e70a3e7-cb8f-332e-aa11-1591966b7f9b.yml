@@ -1,0 +1,29 @@
+lastAccountName: JARNYOX2
+timestamps:
+  login: 1612237464856
+  lastteleport: 1612239006205
+  logout: 1612240655711
+ipAddress: 113.53.249.78
+lastlocation:
+  world: newspawn
+  x: 1485.4029778672839
+  y: 81.92159999847412
+  z: 264.53947361048756
+  yaw: 272.10867
+  pitch: 40.516804
+logoutlocation:
+  world: newspawn
+  x: 1470.4593544818558
+  y: 82.0
+  z: 267.3555069102147
+  yaw: 83.70862
+  pitch: 22.816792
+homes:
+  home:
+    world: Survival1
+    x: 1460.3335503693236
+    y: 85.0
+    z: -168.40674075070916
+    yaw: -338.39496
+    pitch: 18.664865
+money: '2525000'

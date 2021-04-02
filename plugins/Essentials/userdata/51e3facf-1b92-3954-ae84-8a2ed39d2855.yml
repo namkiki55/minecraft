@@ -1,0 +1,21 @@
+lastAccountName: DragonSlayer_TH
+timestamps:
+  login: 1612019861233
+  logout: 1612019922671
+  lastteleport: 1611960240889
+ipAddress: 58.11.31.72
+lastlocation:
+  world: newspawn
+  x: 1415.7812576378435
+  y: 78.0
+  z: 267.0742924029863
+  yaw: -257.09146
+  pitch: 22.066805
+logoutlocation:
+  world: newspawn
+  x: 1428.8791049491444
+  y: 78.0625
+  z: 254.13025077638176
+  yaw: -136.04163
+  pitch: 19.966822
+money: '2525000'

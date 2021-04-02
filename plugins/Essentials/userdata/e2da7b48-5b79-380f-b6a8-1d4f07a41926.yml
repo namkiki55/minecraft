@@ -1,0 +1,29 @@
+lastAccountName: KingJukJui_
+timestamps:
+  login: 1614569903932
+  lastteleport: 1614569886362
+  logout: 1614570436358
+ipAddress: 171.96.89.64
+lastlocation:
+  world: newspawn
+  x: 1505.3432072393286
+  y: 78.0
+  z: 253.84212065687473
+  yaw: 105.91416
+  pitch: 5.582775
+homes:
+  home:
+    world: Event
+    x: 136.30000001192093
+    y: 134.0
+    z: 1516.309977931303
+    yaw: 260.25098
+    pitch: 20.487143
+money: '0'
+logoutlocation:
+  world: Event
+  x: 145.23049618024893
+  y: 5.0
+  z: 1523.584132051623
+  yaw: 88.30499
+  pitch: 30.175295

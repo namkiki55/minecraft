@@ -1,0 +1,30 @@
+lastAccountName: DJfin_TV
+timestamps:
+  login: 1617281769385
+  lastteleport: 1617184289629
+  logout: 1617281836380
+ipAddress: 171.99.154.151
+lastlocation:
+  world: Sv2
+  x: -295.03919083940247
+  y: 1.0
+  z: -300.9453876781726
+  yaw: -180.29224
+  pitch: 4.050035
+money: '1873.625'
+homes:
+  home:
+    world: Survival1
+    x: 555224.6805746352
+    y: 84.5
+    z: -2893.800000011921
+    yaw: 10.469638
+    pitch: -6.1499543
+logoutlocation:
+  world: newspawn
+  x: 1464.6064568224745
+  y: 78.0
+  z: 284.82027504963196
+  yaw: -40.231506
+  pitch: 16.903128
+godmode: false

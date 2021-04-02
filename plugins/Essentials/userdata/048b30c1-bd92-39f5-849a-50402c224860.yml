@@ -1,0 +1,21 @@
+lastAccountName: gun
+timestamps:
+  login: 1612665661627
+  lastteleport: 1612608384536
+  logout: 1612665716283
+ipAddress: 182.52.28.229
+lastlocation:
+  world: newspawn
+  x: 1500.293799538845
+  y: 78.5
+  z: 265.81772999802814
+  yaw: -92.1301
+  pitch: 30.303955
+logoutlocation:
+  world: newspawn
+  x: 1473.254227694663
+  y: 79.0
+  z: 296.41722490622635
+  yaw: 265.52005
+  pitch: 4.94701
+money: '2525000'

@@ -1,0 +1,22 @@
+lastAccountName: xtra
+timestamps:
+  login: 1616252286177
+  lastteleport: 1615158181031
+  logout: 1616252298422
+ipAddress: 159.192.35.236
+lastlocation:
+  world: Survival1
+  x: 555497.0936008801
+  y: 71.0
+  z: -85.4346946968244
+  yaw: 191.20296
+  pitch: 29.99999
+money: '26023.625'
+godmode: false
+logoutlocation:
+  world: newspawn
+  x: 1406.7335755423724
+  y: 81.0
+  z: 267.3027048505983
+  yaw: 107.60523
+  pitch: 11.197149

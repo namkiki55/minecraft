@@ -1,0 +1,20 @@
+lastAccountName: zVndree
+timestamps:
+  login: 1611705164800
+  logout: 1611705451354
+ipAddress: 49.237.19.41
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 97.27038747899765
+  y: 63.0
+  z: 240.2162531294389
+  yaw: -88.64957
+  pitch: 20.699823
+money: '2525000'

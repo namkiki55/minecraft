@@ -1,0 +1,20 @@
+lastAccountName: Bongchu
+timestamps:
+  login: 1612247515963
+  logout: 1612247522438
+ipAddress: 171.98.104.99
+lastlocation:
+  world: world
+  x: -698.5
+  y: 65.0
+  z: 416.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1469.4802912001037
+  y: 82.0
+  z: 268.7779186153763
+  yaw: 60.314194
+  pitch: 11.382808
+money: '2525000'

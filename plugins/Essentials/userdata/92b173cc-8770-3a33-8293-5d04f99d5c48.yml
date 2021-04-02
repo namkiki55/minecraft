@@ -1,0 +1,41 @@
+lastAccountName: XxAntGamerxX
+timestamps:
+  login: 1617181297843
+  logout: 1617181555735
+  lastteleport: 1616975547853
+ipAddress: 124.120.205.240
+lastlocation:
+  world: world
+  x: 238.5
+  y: -1.0
+  z: 238.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1489.8199275530744
+  y: 78.0
+  z: 267.2294161279509
+  yaw: 270.10373
+  pitch: 81.71316
+money: '100000'
+homes:
+  home:
+    world: Survival1
+    x: 555424.5140817236
+    y: 65.0
+    z: -1780.5917888676393
+    yaw: 180.0286
+    pitch: 1.9523352
+  cat:
+    world: Survival1
+    x: 555354.3789392264
+    y: 65.0
+    z: -2496.59036052083
+    yaw: 89.61008
+    pitch: 0.65203756
+socialspy: true
+teleportenabled: true
+nickname: "\xa7b\xa7lOnichan"
+godmode: false
+afk: false

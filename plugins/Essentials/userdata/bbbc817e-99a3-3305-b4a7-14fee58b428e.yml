@@ -1,0 +1,21 @@
+lastAccountName: xNiKlaSTHx
+timestamps:
+  login: 1613101704514
+  logout: 1613102180773
+  lastteleport: 1612951291761
+ipAddress: 184.22.38.15
+lastlocation:
+  world: newspawn
+  x: 1366.7408614036344
+  y: 78.0
+  z: 270.97180446286825
+  yaw: -33.28129
+  pitch: 15.205633
+logoutlocation:
+  world: newspawn
+  x: 1448.3886651420726
+  y: 78.0
+  z: 300.39595770538335
+  yaw: -174.21689
+  pitch: 32.60534
+money: '2525000'

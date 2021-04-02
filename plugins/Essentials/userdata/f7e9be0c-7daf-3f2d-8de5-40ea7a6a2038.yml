@@ -1,0 +1,29 @@
+lastAccountName: Daneric_
+timestamps:
+  login: 1611458956065
+  logout: 1611459257421
+  lastteleport: 1610913420663
+ipAddress: 49.228.116.80
+logoutlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 82.76636799395752
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+homes:
+  home:
+    world: newspawn
+    x: 1483.8544873633616
+    y: 78.0
+    z: 288.56312053798854
+    yaw: -32.224365
+    pitch: 27.350126
+money: '2525000'

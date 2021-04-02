@@ -1,0 +1,20 @@
+lastAccountName: konthai2412
+timestamps:
+  login: 1612688343348
+  logout: 1612688350464
+ipAddress: 58.11.31.17
+lastlocation:
+  world: world
+  x: -709.5
+  y: 67.0
+  z: 404.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1475.5
+  y: 83.0
+  z: 266.5
+  yaw: 90.00862
+  pitch: 16.216793
+money: '2525000'

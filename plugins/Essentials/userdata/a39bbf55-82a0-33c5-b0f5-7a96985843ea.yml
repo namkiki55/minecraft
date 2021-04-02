@@ -1,0 +1,21 @@
+lastAccountName: _12TimeWeCGG_
+timestamps:
+  login: 1613191540085
+  lastteleport: 1613191421639
+  logout: 1613191579307
+ipAddress: 125.26.255.56
+lastlocation:
+  world: newspawn
+  x: 1469.5665873824255
+  y: 82.0
+  z: 264.59771075006825
+  yaw: -5.389679
+  pitch: 24.317
+logoutlocation:
+  world: pvpsv
+  x: 333.4501301483478
+  y: 4.0
+  z: 286.1472260965257
+  yaw: 42.2175
+  pitch: -12.150003
+money: '2525000'

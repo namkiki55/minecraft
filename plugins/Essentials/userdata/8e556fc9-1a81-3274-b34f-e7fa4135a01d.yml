@@ -1,0 +1,20 @@
+lastAccountName: JUMUNG
+timestamps:
+  login: 1612871631330
+  logout: 1612871723114
+ipAddress: 49.49.249.127
+lastlocation:
+  world: world
+  x: -701.5
+  y: 66.0
+  z: 400.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1350.300000011921
+  y: 78.5
+  z: 266.4611468995176
+  yaw: 135.75842
+  pitch: 24.749992
+money: '2525000'

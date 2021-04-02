@@ -1,0 +1,45 @@
+lastAccountName: Among153
+timestamps:
+  login: 1616321255187
+  lastteleport: 1616321283742
+  logout: 1616321298972
+ipAddress: 223.204.232.214
+lastlocation:
+  world: Dungeon
+  x: -249.8335562069861
+  y: 24.739922333401868
+  z: -239.96657971971962
+  yaw: 9.512065
+  pitch: 17.441154
+money: '435539.375'
+logoutlocation:
+  world: Dungeon
+  x: 193.4483918620706
+  y: 16.200000047683716
+  z: 80.00565581812553
+  yaw: 38.302967
+  pitch: 26.677183
+homes:
+  home:
+    world: SvSand
+    x: 1561.2453948344375
+    y: 71.0
+    z: 285.4311070374604
+    yaw: 344.4228
+    pitch: 31.51828
+  s:
+    world: SvSand
+    x: 1621.7064379166547
+    y: 77.0
+    z: 287.2990070090906
+    yaw: 357.4726
+    pitch: 11.868273
+  r:
+    world: SvSand
+    x: 1562.2818968556492
+    y: 72.0
+    z: 289.1653903282784
+    yaw: 344.4228
+    pitch: 31.51828
+nickname: Among153
+godmode: false

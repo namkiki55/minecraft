@@ -1,0 +1,20 @@
+lastAccountName: PPAL986
+timestamps:
+  login: 1614425873505
+  logout: 1614425950201
+ipAddress: 184.22.162.255
+lastlocation:
+  world: world
+  x: -706.5
+  y: -1.0
+  z: 404.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1461.699999988079
+  y: 78.4807108763317
+  z: 266.2302686602967
+  yaw: 297.2379
+  pitch: 33.106304
+money: '25000'

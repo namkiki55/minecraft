@@ -1,0 +1,21 @@
+lastAccountName: DTY_PS1111
+timestamps:
+  login: 1611901512854
+  lastteleport: 1611901528537
+  logout: 1611901533546
+ipAddress: 171.100.251.122
+lastlocation:
+  world: newspawn
+  x: 1471.1091454509392
+  y: 82.0
+  z: 266.2060291485913
+  yaw: -5.903812
+  pitch: 16.968046
+logoutlocation:
+  world: newspawn
+  x: 1474.9743411432808
+  y: 78.0
+  z: 281.0000751656589
+  yaw: 48.02085
+  pitch: 16.208357
+money: '2525000'

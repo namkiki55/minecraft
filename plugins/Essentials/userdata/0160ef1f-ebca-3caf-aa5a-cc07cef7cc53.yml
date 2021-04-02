@@ -1,0 +1,20 @@
+lastAccountName: gus555
+timestamps:
+  login: 1611710183072
+  logout: 1611710276123
+ipAddress: 223.207.245.87
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+logoutlocation:
+  world: newspawn
+  x: 1463.5132743173565
+  y: 78.0
+  z: 293.1577612502607
+  yaw: -6.0717154
+  pitch: 4.9959254
+money: '2525000'

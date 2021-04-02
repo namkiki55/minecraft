@@ -1,0 +1,21 @@
+lastAccountName: JonkoMeneer
+timestamps:
+  login: 1616830948955
+  logout: 1616831211707
+  lastteleport: 1616831001983
+ipAddress: 124.122.221.244
+lastlocation:
+  world: newspawn
+  x: 1415.258752628525
+  y: 64.0
+  z: 260.18699384301004
+  yaw: 33.90909
+  pitch: -70.20007
+logoutlocation:
+  world: newspawn
+  x: 1442.9453835283282
+  y: 78.0
+  z: 270.87801354425847
+  yaw: -133.14331
+  pitch: 31.799744
+money: '2525000'

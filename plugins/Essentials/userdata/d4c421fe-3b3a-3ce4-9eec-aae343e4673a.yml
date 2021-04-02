@@ -1,0 +1,20 @@
+lastAccountName: fgdg
+timestamps:
+  login: 1613301519594
+  logout: 1613301612539
+ipAddress: 1.10.204.56
+lastlocation:
+  world: world
+  x: -706.5
+  y: 69.0
+  z: 412.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1454.6358558619168
+  y: 78.0
+  z: 256.2096054521775
+  yaw: 358.50952
+  pitch: -10.350024
+money: '25000'

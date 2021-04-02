@@ -1,0 +1,21 @@
+lastAccountName: OHM_ohm1
+timestamps:
+  login: 1611629688093
+  logout: 1611630736214
+  lastteleport: 1611630493751
+ipAddress: 49.230.142.118
+lastlocation:
+  world: newspawn
+  x: 1501.4823277388757
+  y: 78.5
+  z: 266.50889209889596
+  yaw: -89.20978
+  pitch: 38.501694
+logoutlocation:
+  world: newspawn
+  x: 1476.028429110194
+  y: 83.0
+  z: 266.4379202181117
+  yaw: 85.5247
+  pitch: -1.1901231
+money: '2525000'

@@ -1,0 +1,21 @@
+lastAccountName: HBD_Poom
+timestamps:
+  login: 1612588332666
+  lastteleport: 1612588353958
+  logout: 1612591315893
+ipAddress: 27.55.89.243
+lastlocation:
+  world: newspawn
+  x: 1473.4504772331302
+  y: 82.0
+  z: 266.62250979001135
+  yaw: 87.308624
+  pitch: 29.566793
+logoutlocation:
+  world: Survival1
+  x: -101.4347533482713
+  y: 73.0
+  z: -273.30563630582765
+  yaw: -180.29938
+  pitch: -2.0999985
+money: '2525000'

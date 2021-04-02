@@ -1,0 +1,20 @@
+lastAccountName: zarapor
+timestamps:
+  login: 1612828907686
+  logout: 1612829221279
+ipAddress: 118.174.180.101
+lastlocation:
+  world: world
+  x: -713.5
+  y: 65.0
+  z: 417.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1490.4241133492387
+  y: 78.0
+  z: 263.9354858771856
+  yaw: 81.608
+  pitch: -5.849994
+money: '2525000'

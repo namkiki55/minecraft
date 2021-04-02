@@ -1,0 +1,20 @@
+lastAccountName: _SEp_
+timestamps:
+  login: 1611458685286
+  logout: 1611458802014
+ipAddress: 49.228.65.26
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+logoutlocation:
+  world: newspawn
+  x: 1474.069488972473
+  y: 82.0
+  z: 268.70909366010807
+  yaw: 90.20051
+  pitch: 74.445625
+money: '2525000'

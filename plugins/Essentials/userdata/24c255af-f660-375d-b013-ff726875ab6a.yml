@@ -1,0 +1,20 @@
+lastAccountName: brenGOD
+timestamps:
+  login: 1613277099369
+  logout: 1613277148614
+ipAddress: 171.100.250.188
+lastlocation:
+  world: world
+  x: -701.5
+  y: 67.0
+  z: 402.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1480.1858795581188
+  y: 82.0
+  z: 266.2335154514383
+  yaw: -58.941376
+  pitch: 15.16679
+money: '25000'

@@ -1,0 +1,31 @@
+lastAccountName: LebronMEN
+timestamps:
+  login: 1616824018615
+  logout: 1616824042787
+  lastteleport: 1616823984499
+ipAddress: 49.228.56.177
+lastlocation:
+  world: newspawn
+  x: 1468.7679408703682
+  y: 78.0
+  z: 291.7508965249665
+  yaw: 251.47723
+  pitch: 32.477406
+logoutlocation:
+  world: newspawn
+  x: 1526.8473198527738
+  y: 64.0
+  z: 212.30895961654744
+  yaw: 348.06125
+  pitch: 4.298997
+homes:
+  home:
+    world: Survival1
+    x: 555354.5972864241
+    y: 65.0
+    z: -2496.5038140652778
+    yaw: 84.27008
+    pitch: -1.0655968
+godmode: false
+nickname: "\xa7dS"
+money: '7.875'

@@ -1,0 +1,29 @@
+lastAccountName: _Uwiget_
+timestamps:
+  login: 1611782253917
+  lastteleport: 1611782257846
+  logout: 1611782311138
+ipAddress: 1.10.205.128
+lastlocation:
+  world: newspawn
+  x: 1472.9810776757834
+  y: 82.0
+  z: 266.4514533207596
+  yaw: 90.900314
+  pitch: 90.0
+homes:
+  home:
+    world: Survival1
+    x: 370.3934550416287
+    y: 64.0
+    z: 603.3587054160301
+    yaw: -40.568237
+    pitch: 20.852201
+logoutlocation:
+  world: Survival1
+  x: 370.80821205686937
+  y: 65.0
+  z: 604.4314003367008
+  yaw: 349.73215
+  pitch: 69.75225
+money: '2525000'

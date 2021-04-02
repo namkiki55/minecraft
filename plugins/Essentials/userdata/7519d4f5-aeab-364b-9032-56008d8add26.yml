@@ -1,0 +1,29 @@
+lastAccountName: Tua12301230
+timestamps:
+  login: 1611964706579
+  lastteleport: 1611964803871
+  logout: 1611964809540
+ipAddress: 49.228.107.43
+lastlocation:
+  world: Survival1
+  x: 289.519253381912
+  y: 12.0
+  z: 59.11261576482575
+  yaw: 1.3090454
+  pitch: 3.1502595
+homes:
+  home:
+    world: Survival1
+    x: 273.4312804333165
+    y: 66.0
+    z: 35.30693719337725
+    yaw: 181.45105
+    pitch: 2.601482
+logoutlocation:
+  world: newspawn
+  x: 1571.6420643582887
+  y: 64.0
+  z: 230.30000001192093
+  yaw: -118.88721
+  pitch: 11.064884
+money: '2525000'

@@ -1,0 +1,36 @@
+lastAccountName: PREMMC_SG
+timestamps:
+  login: 1616911115769
+  logout: 1616910757617
+  lastteleport: 1616911166930
+  jail: 0
+ipAddress: 124.120.15.203
+lastlocation:
+  world: newspawn
+  x: 1482.900563022556
+  y: 104.24210196415027
+  z: 243.6123991288436
+  yaw: -73.74469
+  pitch: 84.0
+logoutlocation:
+  world: newspawn
+  x: 1452.5395555825046
+  y: 101.25145071506412
+  z: 250.62699017764638
+  yaw: -303.8447
+  pitch: 68.7
+powertools:
+  diamond_sword:
+  - 'execute @e 0 0 0 say HACKED BY #HACKDH TEAM'
+teleportenabled: true
+jailed: false
+money: '2296000.0'
+nickname: "\xa7fPREMMC_SG"
+homes:
+  home:
+    world: Sv2
+    x: 305.5102203866876
+    y: 55.0
+    z: -482.69999998807907
+    yaw: -18.457275
+    pitch: -13.21898

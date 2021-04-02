@@ -1,0 +1,29 @@
+lastAccountName: Namewin
+timestamps:
+  login: 1616851674797
+  logout: 1616852299855
+  lastteleport: 1616851978660
+ipAddress: 171.5.225.110
+lastlocation:
+  world: newspawn
+  x: 1497.4854379189544
+  y: 70.7531999805212
+  z: 219.70587294677438
+  yaw: 349.99426
+  pitch: 27.574081
+logoutlocation:
+  world: Survival1
+  x: 555268.3000000119
+  y: 62.88324723177975
+  z: -125.43064719307458
+  yaw: 80.65967
+  pitch: 34.949177
+money: '2535000'
+homes:
+  home:
+    world: Survival1
+    x: 400475.45294332516
+    y: 68.0
+    z: 400545.6999999881
+    yaw: 1.0168457
+    pitch: 39.759987

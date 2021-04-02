@@ -1,0 +1,20 @@
+lastAccountName: AmUS_US
+timestamps:
+  login: 1613134424285
+  logout: 1613134436830
+ipAddress: 125.26.177.169
+lastlocation:
+  world: world
+  x: -702.5
+  y: 67.0
+  z: 402.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1475.5
+  y: 83.0
+  z: 266.5
+  yaw: 90.00862
+  pitch: 16.216793
+money: '2525000'

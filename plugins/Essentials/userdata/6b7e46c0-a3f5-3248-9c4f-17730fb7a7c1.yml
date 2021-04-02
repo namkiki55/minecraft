@@ -1,0 +1,39 @@
+lastAccountName: NikoKunGz_
+timestamps:
+  login: 1614236989164
+  logout: 1614237024255
+  lastteleport: 1614170474187
+  lastheal: 1614170348353
+ipAddress: 49.230.20.193
+lastlocation:
+  world: Sv2
+  x: 458.43380892969225
+  y: 104.0
+  z: 363.4003969644855
+  yaw: 94.62518
+  pitch: 85.65003
+logoutlocation:
+  world: Sv2
+  x: 473.0379996294943
+  y: 65.0
+  z: 513.8468490033399
+  yaw: 155.38013
+  pitch: -71.999985
+money: '463132.15800000000027263'
+homes:
+  home:
+    world: Survival1
+    x: 556785.390100796
+    y: 65.0
+    z: 1045.563410141721
+    yaw: 127.875824
+    pitch: 15.149932
+  ____:
+    world: Sv2
+    x: 649.3248731065214
+    y: 96.0
+    z: 372.7823289273227
+    yaw: 183.52032
+    pitch: 8.400002
+godmode: false
+nickname: NikoKunGz_

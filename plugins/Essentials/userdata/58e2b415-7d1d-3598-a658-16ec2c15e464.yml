@@ -1,0 +1,20 @@
+lastAccountName: ImUsingReach
+timestamps:
+  login: 1611016086680
+  logout: 1611016217583
+ipAddress: 127.0.0.1
+lastlocation:
+  world: newspawn
+  x: 1475.4024329904184
+  y: 83.0
+  z: 266.60661002747815
+  yaw: 85.973816
+  pitch: 90.0
+logoutlocation:
+  world: newspawn
+  x: 1475.4024329904184
+  y: 83.0
+  z: 266.60661002747815
+  yaw: 85.973816
+  pitch: 90.0
+money: '2525000'

@@ -1,0 +1,29 @@
+lastAccountName: OMGGOOW
+timestamps:
+  login: 1612612268681
+  lastteleport: 1612612555088
+  logout: 1612612604997
+ipAddress: 110.168.53.151
+lastlocation:
+  world: newspawn
+  x: 1473.6212602847033
+  y: 82.0
+  z: 264.47429394814367
+  yaw: -336.98956
+  pitch: 4.5443645
+homes:
+  home:
+    world: SvSand
+    x: -7.495716910237756
+    y: 76.0
+    z: -141.66080996234106
+    yaw: -180.03099
+    pitch: 8.99993
+logoutlocation:
+  world: SvSand
+  x: -13.563179755016035
+  y: 71.0
+  z: -223.8287541552274
+  yaw: -182.13098
+  pitch: 14.9999275
+money: '2525000'

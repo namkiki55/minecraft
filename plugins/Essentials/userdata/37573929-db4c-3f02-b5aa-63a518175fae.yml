@@ -1,0 +1,21 @@
+lastAccountName: Dice_abc
+timestamps:
+  login: 1613896189866
+  lastteleport: 1613896323330
+  logout: 1613896134676
+ipAddress: 171.97.100.62
+lastlocation:
+  world: Event
+  x: 689.9218583610638
+  y: 12.0
+  z: 1572.4252712236585
+  yaw: -91.98639
+  pitch: 6.7433543
+logoutlocation:
+  world: newspawn
+  x: 1475.5
+  y: 83.0
+  z: 266.5
+  yaw: 90.00862
+  pitch: 16.216793
+money: '25000'

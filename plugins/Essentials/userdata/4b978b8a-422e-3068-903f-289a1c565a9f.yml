@@ -1,0 +1,21 @@
+lastAccountName: My_Name_Is_Auto
+timestamps:
+  login: 1612234250585
+  logout: 1612234642002
+  lastteleport: 1612234636084
+ipAddress: 1.4.154.120
+lastlocation:
+  world: SvSand
+  x: -6.300000011920929
+  y: 50.0
+  z: -238.69999998807907
+  yaw: 278.34262
+  pitch: 13.701074
+logoutlocation:
+  world: newspawn
+  x: 1481.616189550128
+  y: 82.0
+  z: 269.32026667513435
+  yaw: -88.87277
+  pitch: 70.059845
+money: '2525000'

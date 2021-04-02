@@ -1,0 +1,20 @@
+lastAccountName: NawyOP
+timestamps:
+  login: 1612266525925
+  logout: 1612266533626
+ipAddress: 223.204.240.198
+lastlocation:
+  world: world
+  x: -705.5
+  y: 67.0
+  z: 404.5
+  yaw: 340.27798
+  pitch: 3.646088
+logoutlocation:
+  world: newspawn
+  x: 1475.1549326892252
+  y: 82.5
+  z: 265.0542210631274
+  yaw: 70.15907
+  pitch: 24.735151
+money: '2525000'

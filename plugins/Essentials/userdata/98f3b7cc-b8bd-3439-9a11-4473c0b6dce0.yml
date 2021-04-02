@@ -1,0 +1,20 @@
+lastAccountName: Luiss53
+timestamps:
+  login: 1612137077290
+  logout: 1612137103282
+ipAddress: 49.228.235.54
+lastlocation:
+  world: world
+  x: -712.5572570718516
+  y: 67.0
+  z: 412.5430284075337
+  yaw: -89.32275
+  pitch: 9.570303
+logoutlocation:
+  world: newspawn
+  x: 1469.0471577006779
+  y: 82.0
+  z: 267.17470334470954
+  yaw: 183.00269
+  pitch: 90.0
+money: '2525000'

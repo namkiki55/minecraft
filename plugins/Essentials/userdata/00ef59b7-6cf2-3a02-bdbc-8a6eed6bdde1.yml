@@ -1,0 +1,20 @@
+lastAccountName: HOME02577rr
+timestamps:
+  login: 1612696148443
+  logout: 1612701444435
+ipAddress: 171.4.230.26
+lastlocation:
+  world: world
+  x: -713.5
+  y: 67.0
+  z: 402.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1473.9143298565707
+  y: 82.0
+  z: 269.871151028674
+  yaw: 101.55856
+  pitch: -2.683208
+money: '2525000'

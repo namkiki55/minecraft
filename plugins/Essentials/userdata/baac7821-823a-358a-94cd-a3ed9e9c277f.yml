@@ -1,0 +1,20 @@
+lastAccountName: testmoszao
+timestamps:
+  login: 1613042995128
+  logout: 1613043036347
+ipAddress: 171.5.230.64
+lastlocation:
+  world: world
+  x: -712.5
+  y: 66.0
+  z: 415.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1477.9928769964392
+  y: 82.0
+  z: 265.33410118347444
+  yaw: 193.43611
+  pitch: 17.964539
+money: '2525000'

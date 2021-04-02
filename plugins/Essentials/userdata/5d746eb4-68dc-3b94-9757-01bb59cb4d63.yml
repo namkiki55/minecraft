@@ -1,0 +1,29 @@
+lastAccountName: best_357
+timestamps:
+  login: 1612674927613
+  lastteleport: 1612676982499
+  logout: 1612676982805
+ipAddress: 49.228.248.195
+lastlocation:
+  world: Survival1
+  x: -21.885315729654632
+  y: 66.0
+  z: 250.140716229053
+  yaw: 330.01794
+  pitch: 12.984072
+logoutlocation:
+  world: Survival1
+  x: 15.5
+  y: 44.0
+  z: 114.5
+  yaw: 182.19159
+  pitch: 90.0
+homes:
+  home:
+    world: Survival1
+    x: 15.371102143834026
+    y: 44.0
+    z: 114.55691059801345
+    yaw: 182.19159
+    pitch: 90.0
+money: '2525000'

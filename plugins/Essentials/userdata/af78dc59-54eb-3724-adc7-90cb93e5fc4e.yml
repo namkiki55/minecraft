@@ -1,0 +1,20 @@
+lastAccountName: nanadenwerav
+timestamps:
+  login: 1612359783303
+  logout: 1612359798566
+ipAddress: 184.22.197.96
+lastlocation:
+  world: world
+  x: -698.5
+  y: 65.0
+  z: 414.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1478.5965163358223
+  y: 82.0
+  z: 260.0772824559197
+  yaw: 328.32422
+  pitch: 30.766666
+money: '2525000'

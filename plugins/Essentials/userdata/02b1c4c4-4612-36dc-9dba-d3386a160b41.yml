@@ -1,0 +1,56 @@
+lastAccountName: xsBANKsx
+timestamps:
+  login: 1617098120229
+  lastteleport: 1617098163396
+  logout: 1617098409413
+  lastheal: 1617016025633
+  mute: 0
+ipAddress: 182.232.84.223
+lastlocation:
+  world: newspawn
+  x: 1483.3672646538275
+  y: 98.18987836225956
+  z: 235.57800860465926
+  yaw: 212.06032
+  pitch: 40.35
+money: '4698672.411000000223517418'
+logoutlocation:
+  world: Survival1
+  x: 405736.34777473833
+  y: 68.0
+  z: 400675.6999999881
+  yaw: 10.574644
+  pitch: 33.90003
+homes:
+  home:
+    world: Survival1
+    x: 3418.4525790312405
+    y: 63.0
+    z: 8180.439005478017
+    yaw: 269.16742
+    pitch: 68.84994
+  home1:
+    world: Survival1
+    x: 407063.2375000119
+    y: 69.0
+    z: 400898.51257253595
+    yaw: 269.02145
+    pitch: -8.652561
+  home2:
+    world: Survival1
+    x: 1489.2593483190421
+    y: 80.0625
+    z: -310.29977708263186
+    yaw: -86.73129
+    pitch: 2.6999345
+  home3:
+    world: Survival1
+    x: 1574.1744171689963
+    y: 72.0
+    z: 806.1305854965268
+    yaw: -182.7695
+    pitch: 17.850153
+godmode: false
+afk: false
+nickname: "\xa7c\xa7lB\xa7e\xa7lA\xa7a\xa7lN\xa7b\xa7lK"
+muted: false

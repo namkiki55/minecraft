@@ -1,0 +1,21 @@
+lastAccountName: EXGUN4869
+timestamps:
+  login: 1616925745036
+  logout: 1616925641361
+  lastteleport: 1616416329585
+ipAddress: 49.48.249.188
+lastlocation:
+  world: newspawn
+  x: 1469.7044395573985
+  y: 78.0
+  z: 269.33280328621686
+  yaw: -152.81714
+  pitch: 4.369517
+logoutlocation:
+  world: Survival1
+  x: 555557.3328889076
+  y: 72.0
+  z: 1056.6987975358497
+  yaw: 1.8213079
+  pitch: 7.1999984
+money: '699.9364999999999978'

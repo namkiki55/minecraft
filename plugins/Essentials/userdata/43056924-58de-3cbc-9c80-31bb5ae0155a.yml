@@ -1,0 +1,20 @@
+lastAccountName: LP002
+timestamps:
+  login: 1612065690688
+  logout: 1612066282285
+ipAddress: 184.22.117.106
+lastlocation:
+  world: world
+  x: -713.5
+  y: 67.0
+  z: 404.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1475.0774509543564
+  y: 82.0
+  z: 264.1900566937837
+  yaw: 159.60858
+  pitch: 0.31679735
+money: '2525000'

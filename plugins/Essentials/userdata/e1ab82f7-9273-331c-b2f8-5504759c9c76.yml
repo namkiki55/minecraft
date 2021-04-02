@@ -1,0 +1,20 @@
+lastAccountName: GODchanel
+timestamps:
+  login: 1613118553140
+  logout: 1613118557370
+ipAddress: 1.47.234.62
+lastlocation:
+  world: world
+  x: -695.5
+  y: 65.0
+  z: 407.5
+  yaw: 0.0
+  pitch: -0.15383506
+logoutlocation:
+  world: newspawn
+  x: 1381.056977614998
+  y: 78.0
+  z: 275.4896037450217
+  yaw: -206.78212
+  pitch: 28.474081
+money: '2525000'

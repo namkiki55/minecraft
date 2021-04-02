@@ -1,0 +1,20 @@
+lastAccountName: ldlpws
+timestamps:
+  login: 1610915096149
+  logout: 1610915108076
+ipAddress: 127.0.0.1
+lastlocation:
+  world: newspawn
+  x: 1475.4865469471915
+  y: 83.0
+  z: 266.6252190251414
+  yaw: 90.62384
+  pitch: 3.3654325
+logoutlocation:
+  world: world
+  x: 137.46377760005652
+  y: 63.0
+  z: 250.98717807610555
+  yaw: 101.24868
+  pitch: -22.949986
+money: '2525000'

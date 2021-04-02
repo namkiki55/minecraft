@@ -1,0 +1,55 @@
+# Determines how much items are worth on the server.
+# This can be set in this file, or by running the /setworth command.
+worth:
+
+  # Items not listed in this file will not be sellable on the server
+  # Setting the worth to 0 will sell items for free, delete the item or set to -1 to disable.
+
+  wheat: 8.00
+  melon: 1.30
+  beef: 4.00
+  spidereye: 2.50
+  ironingot: 10.00
+  sugarcane: 2.00
+  brownmushroom: 1.60
+  porkchop: 4.00
+  string: 5.30
+  emerald: 35.00
+  carrot: 3.00
+  redmushroom: 1.60
+  rabbit: 4.00
+  rottenflesh: 7.00
+  magmacream: 2.90
+  redstone: 1.00
+  potatoitem: 3.00
+  inksack: 1.10
+  rawfish: 30.00
+  netherstalk: 1.50
+  fish:
+    '0': 30.00
+    '2': 32.00
+    '1': 31.00
+    '3': 35.00
+  leather: 1.20
+  slimeball: 1.80
+  dye:
+    '0': 1.00
+    '3': 1.10
+    '4': 1.20
+  cactus: 10.00
+  enderpearl: 3.70
+  quartz: 1.50
+  blazerod: 4.80
+  gunpowder: 1.80
+  netherwart: 1.50
+  coal: 3.00
+  pumpkin: 13.00
+  egg: 0.80
+  bone: 9.00
+  diamond: 25.00
+  melonblock: 12.00
+  feather: 0.30
+  arrow: 0.90
+  goldingot: 15.00
+  
+  

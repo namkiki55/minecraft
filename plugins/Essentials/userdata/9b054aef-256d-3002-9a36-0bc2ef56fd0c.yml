@@ -1,0 +1,21 @@
+lastAccountName: DJinn_Banter
+timestamps:
+  login: 1613107375593
+  lastteleport: 1613107424188
+  logout: 1613107465287
+ipAddress: 1.47.172.127
+lastlocation:
+  world: newspawn
+  x: 1500.3574571818099
+  y: 78.5
+  z: 267.3689599769646
+  yaw: -131.65892
+  pitch: 53.196552
+logoutlocation:
+  world: Sv2
+  x: 3.613438623111802
+  y: 65.0
+  z: 45.56138966388528
+  yaw: 178.79979
+  pitch: 15.0303545
+money: '2525000'

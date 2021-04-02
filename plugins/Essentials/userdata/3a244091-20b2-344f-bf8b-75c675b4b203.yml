@@ -1,0 +1,21 @@
+lastAccountName: Sazori
+timestamps:
+  login: 1612599855821
+  logout: 1612600861042
+  lastteleport: 1612600859360
+ipAddress: 1.46.225.196
+lastlocation:
+  world: Survival1
+  x: 168.24708145967594
+  y: 60.0
+  z: 215.91746243298337
+  yaw: 50.519684
+  pitch: 3.8541396
+logoutlocation:
+  world: newspawn
+  x: 1476.697167827414
+  y: 82.5
+  z: 266.5000469781571
+  yaw: 90.00862
+  pitch: 16.216793
+money: '2525000'

@@ -1,0 +1,20 @@
+lastAccountName: Manz
+timestamps:
+  login: 1611832382381
+  logout: 1611832672657
+ipAddress: 49.228.111.47
+lastlocation:
+  world: world
+  x: -710.5
+  y: 68.0
+  z: 413.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1539.02630479441
+  y: 64.0
+  z: 208.15122079791584
+  yaw: -306.28845
+  pitch: -5.98327
+money: '2525000'

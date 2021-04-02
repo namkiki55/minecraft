@@ -1,0 +1,20 @@
+lastAccountName: CMC_TWOB
+timestamps:
+  login: 1612583929168
+  logout: 1612583929209
+ipAddress: 101.108.241.150
+lastlocation:
+  world: world
+  x: -705.5
+  y: 68.0
+  z: 416.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1392.1323927843086
+  y: 79.0
+  z: 241.8419162703197
+  yaw: 66.15056
+  pitch: 30.300129
+money: '2525000'

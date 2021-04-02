@@ -1,0 +1,20 @@
+lastAccountName: asami88
+timestamps:
+  login: 1612440543983
+  logout: 1612440648239
+ipAddress: 171.96.219.222
+lastlocation:
+  world: world
+  x: -695.5
+  y: 65.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1476.0794675378575
+  y: 83.0
+  z: 266.2196465909029
+  yaw: -14.276626
+  pitch: 1.625466
+money: '2525000'

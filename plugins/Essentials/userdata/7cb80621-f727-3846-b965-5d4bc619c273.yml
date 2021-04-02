@@ -1,0 +1,20 @@
+lastAccountName: xxxbiphoxxx
+timestamps:
+  login: 1614345809614
+  logout: 1614345923231
+ipAddress: 124.122.141.241
+lastlocation:
+  world: world
+  x: -704.5
+  y: -1.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1473.9961648147869
+  y: 82.5
+  z: 267.8181331210617
+  yaw: 46.192802
+  pitch: 18.424574
+money: '25000'

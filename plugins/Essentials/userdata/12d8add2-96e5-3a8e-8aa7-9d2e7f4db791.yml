@@ -1,0 +1,20 @@
+lastAccountName: avunne
+timestamps:
+  login: 1611457722820
+  logout: 1611457796198
+ipAddress: 118.172.70.69
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+logoutlocation:
+  world: newspawn
+  x: 1474.4787507140118
+  y: 82.0
+  z: 271.53323626274886
+  yaw: -13.347061
+  pitch: 9.871253
+money: '2525000'

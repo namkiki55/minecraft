@@ -1,0 +1,29 @@
+lastAccountName: liebevxlle
+timestamps:
+  login: 1615155222007
+  lastteleport: 1615155403147
+  logout: 1615155570038
+ipAddress: 115.87.162.106
+lastlocation:
+  world: Survival1
+  x: 555914.442001989
+  y: 96.0
+  z: -419.44592011568704
+  yaw: 3.2542114
+  pitch: 19.799873
+money: '226500'
+homes:
+  home:
+    world: Survival1
+    x: 555906.618169849
+    y: 92.0
+    z: -410.6701604418813
+    yaw: 154.75366
+    pitch: 27.149881
+logoutlocation:
+  world: newspawn
+  x: 1487.6636887340717
+  y: 78.0
+  z: 265.9765540680245
+  yaw: 275.00452
+  pitch: 26.947124

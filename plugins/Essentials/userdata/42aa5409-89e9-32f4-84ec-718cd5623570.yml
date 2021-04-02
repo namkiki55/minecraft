@@ -1,0 +1,20 @@
+lastAccountName: sheg
+timestamps:
+  login: 1614426156475
+  logout: 1614426167288
+ipAddress: 223.205.217.112
+lastlocation:
+  world: world
+  x: -700.5
+  y: 67.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1484.0041185371729
+  y: 78.0
+  z: 261.31233326893647
+  yaw: 198.34074
+  pitch: 27.210173
+money: '2525000'

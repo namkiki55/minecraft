@@ -1,0 +1,44 @@
+lastAccountName: woraphon12_TH
+timestamps:
+  login: 1615898776794
+  lastteleport: 1615898844593
+  logout: 1615898859197
+ipAddress: 27.145.177.120
+lastlocation:
+  world: Survival1
+  x: 1418.2226242555512
+  y: 77.0
+  z: -163.08159412101716
+  yaw: -101.09481
+  pitch: -12.15004
+homes:
+  home:
+    world: Survival1
+    x: -1872.3018484669233
+    y: 64.0
+    z: 665.2164768108024
+    yaw: 256.5359
+    pitch: 26.09995
+  auto:
+    world: Survival1
+    x: 1424.3488670453573
+    y: 79.0
+    z: -162.30000001192093
+    yaw: -86.99474
+    pitch: 12.749961
+  xx:
+    world: Survival1
+    x: 1001.6494666497131
+    y: 64.0
+    z: -220.53195389133276
+    yaw: 87.06645
+    pitch: 75.924034
+logoutlocation:
+  world: Survival1
+  x: -1870.2640564431624
+  y: 64.0
+  z: 667.3227126174587
+  yaw: 211.98605
+  pitch: 10.499952
+money: '2525000'
+godmode: false

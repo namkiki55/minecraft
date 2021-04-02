@@ -1,0 +1,21 @@
+lastAccountName: Darkrockker
+timestamps:
+  login: 1612235479348
+  lastteleport: 1612236531067
+  logout: 1612236975880
+ipAddress: 223.206.225.98
+lastlocation:
+  world: newspawn
+  x: 1473.5846240018748
+  y: 82.0
+  z: 266.48139093061565
+  yaw: 90.908615
+  pitch: 14.866795
+logoutlocation:
+  world: Survival1
+  x: -185.1245108860366
+  y: 77.0
+  z: -53.407252767735045
+  yaw: -109.153
+  pitch: 5.10009
+money: '2525000'

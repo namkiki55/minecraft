@@ -1,0 +1,29 @@
+lastAccountName: xZeroStarGods
+timestamps:
+  login: 1613027478350
+  lastteleport: 1612964735387
+  logout: 1613027586904
+ipAddress: 58.8.168.62
+lastlocation:
+  world: Survival1
+  x: 33.44524650819049
+  y: 68.0
+  z: 341.07781090288756
+  yaw: 100.61125
+  pitch: 1.1999432
+money: '2525000'
+homes:
+  home:
+    world: Survival1
+    x: 26.5
+    y: 68.0
+    z: 338.5
+    yaw: 312.561
+    pitch: 17.999956
+logoutlocation:
+  world: newspawn
+  x: 1531.9414467438112
+  y: 64.0
+  z: 224.9911386793959
+  yaw: -269.28537
+  pitch: 75.58097

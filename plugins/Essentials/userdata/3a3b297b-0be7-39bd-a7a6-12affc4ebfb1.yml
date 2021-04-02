@@ -1,0 +1,20 @@
+lastAccountName: KRITSADA_Dunk
+timestamps:
+  login: 1612547299131
+  logout: 1612547299151
+ipAddress: 49.228.243.127
+lastlocation:
+  world: world
+  x: -705.5
+  y: 67.0
+  z: 399.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1387.7188049560698
+  y: 78.0
+  z: 268.15934366402433
+  yaw: 87.008514
+  pitch: 12.916871
+money: '2525000'

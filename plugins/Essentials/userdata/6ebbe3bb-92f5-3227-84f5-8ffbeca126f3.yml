@@ -1,0 +1,20 @@
+lastAccountName: xDarkboltz
+timestamps:
+  login: 1612359024057
+  logout: 1612359305809
+ipAddress: 223.204.217.196
+lastlocation:
+  world: world
+  x: -706.5
+  y: 68.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1422.19562348458
+  y: 64.0
+  z: 258.35762465464217
+  yaw: 348.16248
+  pitch: -14.591156
+money: '2525000'

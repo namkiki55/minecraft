@@ -1,0 +1,30 @@
+lastAccountName: zKornGamerz
+timestamps:
+  login: 1613206484742
+  lastteleport: 1613208502477
+  logout: 1613208765279
+ipAddress: 184.22.212.156
+lastlocation:
+  world: SvSand
+  x: 330.04093105350074
+  y: 75.0
+  z: -28.72034781221854
+  yaw: -38.925087
+  pitch: 11.979144
+logoutlocation:
+  world: newspawn
+  x: 1526.0951195185162
+  y: 64.79673560066871
+  z: 279.16147431346667
+  yaw: -5.8115606
+  pitch: 42.831413
+money: '2375800.0'
+homes:
+  home:
+    world: Event
+    x: 135.21355385010443
+    y: 99.0
+    z: 1230.0912706814224
+    yaw: -270.87585
+    pitch: 19.108498
+godmode: false

@@ -1,0 +1,37 @@
+lastAccountName: Nocare_007
+timestamps:
+  login: 1617020606322
+  lastteleport: 1616927211016
+  logout: 1617004860724
+ipAddress: 171.99.152.36
+lastlocation:
+  world: world
+  x: 237.5
+  y: -1.0
+  z: 229.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1321.4138331844342
+  y: 4.253690962619914
+  z: 286.98985408753003
+  yaw: 82.011475
+  pitch: 35.825565
+homes:
+  home:
+    world: Survival1
+    x: 555298.0324024248
+    y: 79.0
+    z: -60.91275060072148
+    yaw: 149.06549
+    pitch: 7.0502653
+  newhome:
+    world: Survival1
+    x: 555174.4573728396
+    y: 76.0
+    z: -2889.3612537998656
+    yaw: -109.381775
+    pitch: 36.450077
+godmode: false
+money: '35.875'

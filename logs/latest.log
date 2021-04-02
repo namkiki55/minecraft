@@ -1,0 +1,520 @@
+[22:05:08] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[22:05:08] [Server thread/INFO]: Loading properties
+[22:05:08] [Server thread/INFO]: Default game type: SURVIVAL
+[22:05:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[22:05:08] [Server thread/INFO]: Debug logging is disabled
+[22:05:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[22:05:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:05:08] [Server thread/INFO]: Generating keypair
+[22:05:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:05:08] [Server thread/INFO]: Using default channel type
+[22:05:08] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[22:05:08] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:05:08] [Server thread/INFO]: [ArmorStandEditor] Loading ArmorStandEditor v1.8-0.1.5BETA
+[22:05:08] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.2.1
+[22:05:08] [Server thread/INFO]: [ViaVersion] ViaVersion 3.2.1 is now loaded, injecting!
+[22:05:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[22:05:08] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[22:05:08] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[22:05:08] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[22:05:08] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[22:05:08] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[22:05:08] [Server thread/INFO]: [AuctionHouse] Loading AuctionHouse v2.1.7
+[22:05:08] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.9.0
+[22:05:08] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[22:05:08] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.2.0
+[22:05:08] [Server thread/INFO]: [MysqlEconomyBank] Loading MysqlEconomyBank v1.16.3
+[22:05:08] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[22:05:08] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[22:05:08] [Server thread/INFO]: [Trading] Loading Trading v3.2
+[22:05:08] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.2.0
+[22:05:08] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.18.2.0
+[22:05:08] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.4.0-b1877
+[22:05:08] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[22:05:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:05:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:05:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:05:09] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:05:09] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Enabling MysqlEconomyBank v1.16.3
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Using economy system: Essentials Economy
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Using permission system: SuperPerms
+[22:05:09] [Server thread/WARN]: [MysqlEconomyBank] Failed to hook into TitleManager, disabling action bar messages.
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Loading the config file...
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Using MySQL as Datasource...
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Connecting to the database...
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Database connection successful!
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] Interest task is disabled.
+[22:05:09] [Server thread/INFO]: [MysqlEconomyBank] MysqlEconomyBank has been successfully loaded!
+[22:05:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:05:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:05:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:05:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:05:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:05:09] [Server thread/INFO]: Preparing level "world"
+[22:05:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:05:09] [Server thread/INFO]: Mob Spawn Range: 4
+[22:05:09] [Server thread/INFO]: Anti X-Ray: true
+[22:05:09] [Server thread/INFO]: 	Engine Mode: 1
+[22:05:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:05:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:05:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:05:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:05:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:05:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:05:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:05:09] [Server thread/INFO]: Clear tick list: false
+[22:05:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:05:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:05:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:05:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:05:09] [Server thread/INFO]: Structure Info Saving: true
+[22:05:09] [Server thread/INFO]: Random Lighting Updates: false
+[22:05:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:05:09] [Server thread/INFO]: Max Entity Collisions: 8
+[22:05:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:05:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:05:09] [Server thread/INFO]: Max TNT Explosions: 100
+[22:05:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:05:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:05:09] [Server thread/INFO]: View Distance: 10
+[22:05:09] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:05:09] [Server thread/INFO]: Mob Spawn Range: 4
+[22:05:09] [Server thread/INFO]: Anti X-Ray: true
+[22:05:09] [Server thread/INFO]: 	Engine Mode: 1
+[22:05:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:05:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:05:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:05:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:05:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:05:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:05:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:05:09] [Server thread/INFO]: Clear tick list: false
+[22:05:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:05:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:05:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:05:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:05:09] [Server thread/INFO]: Structure Info Saving: true
+[22:05:09] [Server thread/INFO]: Random Lighting Updates: false
+[22:05:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:05:09] [Server thread/INFO]: Max Entity Collisions: 8
+[22:05:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:05:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:05:09] [Server thread/INFO]: Max TNT Explosions: 100
+[22:05:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:05:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:05:09] [Server thread/INFO]: View Distance: 10
+[22:05:09] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:05:09] [Server thread/INFO]: Mob Spawn Range: 4
+[22:05:09] [Server thread/INFO]: Anti X-Ray: true
+[22:05:09] [Server thread/INFO]: 	Engine Mode: 1
+[22:05:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:05:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:05:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:05:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:05:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:05:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:05:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:05:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:05:09] [Server thread/INFO]: Clear tick list: false
+[22:05:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:05:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:05:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:05:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:05:09] [Server thread/INFO]: Structure Info Saving: true
+[22:05:09] [Server thread/INFO]: Random Lighting Updates: false
+[22:05:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:05:09] [Server thread/INFO]: Max Entity Collisions: 8
+[22:05:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:05:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:05:09] [Server thread/INFO]: Max TNT Explosions: 100
+[22:05:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:05:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:05:09] [Server thread/INFO]: View Distance: 10
+[22:05:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3741017044652792923)
+[22:05:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3741017044652792923)
+[22:05:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3741017044652792923)
+[22:05:10] [Server thread/INFO]: [ArmorStandEditor] Enabling ArmorStandEditor v1.8-0.1.5BETA
+[22:05:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.2.1
+[22:05:10] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v2.1.7
+[22:05:10] [Server thread/INFO]: [AuctionHouse] Found locale file en_us.json
+[22:05:10] [Server thread/WARN]: [AuctionHouse] [1;33mA backup of the database has been saved with .backup extension.[0m
+[22:05:10] [Server thread/INFO]: [AuctionHouse] Using NMS version v1_8_R3
+[22:05:10] [Server thread/INFO]: [AuctionHouse] Using en_us locale
+[22:05:10] [Server thread/INFO]: [AuctionHouse] Loaded 1 listing
+[22:05:10] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.9.0
+[22:05:10] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[22:05:10] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[22:05:10] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[22:05:10] [Server thread/INFO]: No kits found to migrate.
+[22:05:11] [Server thread/INFO]: Loaded 852 items from items.csv.
+[22:05:11] [Server thread/INFO]: Using locale th_TH
+[22:05:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:05:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:05:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:05:11] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:05:11] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.2.0
+[22:05:11] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[22:05:11] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[22:05:11] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[22:05:11] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:05:11] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[22:05:11] [Server thread/ERROR]: No license key found! Please visit https://essentialsx.net/geoip for first time setup instructions.
+[22:05:11] [Server thread/ERROR]: ?7ไม่สามารถอ่านฐานข้อมูลที่ใช้ระบุตำแหน่งที่ตั้งของไอพี!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:347) ~[?:?]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:261) ~[?:?]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:216) ~[?:?]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:52) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [server.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:832) [?:?]
+[22:05:11] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[22:05:11] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[22:05:11] [Server thread/INFO]: [Trading] Enabling Trading v3.2
+[22:05:11] [Server thread/INFO]: [Trading] Trading has been enabled
+[22:05:11] [Server thread/INFO]: [Trading] Vault and Economy have been found!
+[22:05:11] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.2.0
+[22:05:11] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:05:11] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.18.2.0
+[22:05:11] [Server thread/WARN]: XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[22:05:11] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[22:05:11] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.4.0-b1877
+[22:05:11] [Server thread/INFO]: [AuthMe] Created column 'regdate' and set the current timestamp, 1617289511296, to all 0 rows
+[22:05:11] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[22:05:11] [Server thread/INFO]: [AuthMe] Hooked into Vault!
+[22:05:11] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[22:05:11] [Thread-8/WARN]: [AuthMe] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[22:05:11] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[22:05:11] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[22:05:11] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[22:05:11] [Server thread/INFO]: [AuthMe] AuthMe 5.4.0 build n.1877 correctly enabled!
+[22:05:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:05:11] [Server thread/INFO]: Done (2.269s)! For help, type "help" or "?"
+[22:05:11] [Server thread/INFO]: Starting remote control listener
+[22:05:11] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:12345
+[22:05:11] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[22:05:11] [Server thread/WARN]: [ViaVersion] This version of Minecraft is over half a decade old and support for it will be fully dropped eventually. Please upgrade to a newer version to avoid encountering bugs and stability issues that have long been fixed.
+[22:05:11] [Server thread/INFO]: [AuctionHouse] Registered Service Provider Vault for Vault's Economy API
+[22:05:11] [Server thread/WARN]: [AuctionHouse] [1;33mWarning! No plugin supporting Vault's Chat API was found![0m
+[22:05:11] [Server thread/WARN]: [AuctionHouse] [1;33mMeta-based auction limits are disabled.[0m
+[22:05:11] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[22:05:11] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[22:05:13] [Craft Scheduler Thread - 1/INFO]: [Vault] No new version available
+[22:05:27] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+
+[22:05:27] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+
+[22:05:27] [Server thread/INFO]: Debug logging is disabled
+[22:05:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[22:05:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:05:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:05:27] [Server thread/INFO]: Mob Spawn Range: 4
+[22:05:27] [Server thread/INFO]: Anti X-Ray: true
+[22:05:27] [Server thread/INFO]: 	Engine Mode: 1
+[22:05:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:05:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:05:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:05:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:05:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:05:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:05:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:05:27] [Server thread/INFO]: Clear tick list: false
+[22:05:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:05:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:05:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:05:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:05:27] [Server thread/INFO]: Structure Info Saving: true
+[22:05:27] [Server thread/INFO]: Random Lighting Updates: false
+[22:05:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:05:27] [Server thread/INFO]: Max Entity Collisions: 8
+[22:05:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:05:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:05:27] [Server thread/INFO]: Max TNT Explosions: 100
+[22:05:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:05:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:05:27] [Server thread/INFO]: View Distance: 10
+[22:05:27] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:05:27] [Server thread/INFO]: Mob Spawn Range: 4
+[22:05:27] [Server thread/INFO]: Anti X-Ray: true
+[22:05:27] [Server thread/INFO]: 	Engine Mode: 1
+[22:05:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:05:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:05:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:05:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:05:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:05:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:05:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:05:27] [Server thread/INFO]: Clear tick list: false
+[22:05:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:05:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:05:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:05:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:05:27] [Server thread/INFO]: Structure Info Saving: true
+[22:05:27] [Server thread/INFO]: Random Lighting Updates: false
+[22:05:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:05:27] [Server thread/INFO]: Max Entity Collisions: 8
+[22:05:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:05:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:05:27] [Server thread/INFO]: Max TNT Explosions: 100
+[22:05:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:05:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:05:27] [Server thread/INFO]: View Distance: 10
+[22:05:27] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:05:27] [Server thread/INFO]: Mob Spawn Range: 4
+[22:05:27] [Server thread/INFO]: Anti X-Ray: true
+[22:05:27] [Server thread/INFO]: 	Engine Mode: 1
+[22:05:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:05:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:05:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:05:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:05:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:05:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:05:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:05:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:05:27] [Server thread/INFO]: Clear tick list: false
+[22:05:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:05:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:05:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:05:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:05:27] [Server thread/INFO]: Structure Info Saving: true
+[22:05:27] [Server thread/INFO]: Random Lighting Updates: false
+[22:05:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:05:27] [Server thread/INFO]: Max Entity Collisions: 8
+[22:05:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:05:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:05:27] [Server thread/INFO]: Max TNT Explosions: 100
+[22:05:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:05:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:05:27] [Server thread/INFO]: View Distance: 10
+[22:05:27] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.4.0-b1877
+[22:05:27] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[22:05:27] [Server thread/INFO]: [AuthMe] AuthMe 5.4.0-b1877 disabled!
+[22:05:27] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.2.0
+[22:05:27] [Server thread/INFO]: [Trading] Disabling Trading v3.2
+[22:05:27] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.2.0
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Disabling MysqlEconomyBank v1.16.3
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Closing MySQL connection...
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] MysqlEconomyBank is disabled!
+[22:05:27] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.18.2.0
+[22:05:27] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[22:05:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:05:27] [Server thread/ERROR]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[22:05:27] [Server thread/INFO]: [LockettePro] Disabling LockettePro v2.9.0
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v2.1.7
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Saving auctions data
+[22:05:27] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:05:27] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v3.2.1
+[22:05:27] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[22:05:27] [Server thread/INFO]: [ArmorStandEditor] Disabling ArmorStandEditor v1.8-0.1.5BETA
+[22:05:27] [Server thread/INFO]: [ArmorStandEditor] Loading ArmorStandEditor v1.8-0.1.5BETA
+[22:05:27] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.2.1
+[22:05:27] [Server thread/INFO]: [ViaVersion] ViaVersion 3.2.1 is now loaded, injecting!
+[22:05:27] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[22:05:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[22:05:27] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[22:05:27] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[22:05:27] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[22:05:27] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Loading AuctionHouse v2.1.7
+[22:05:27] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.9.0
+[22:05:27] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.2.0
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Loading MysqlEconomyBank v1.16.3
+[22:05:27] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[22:05:27] [Server thread/INFO]: [Trading] Loading Trading v3.2
+[22:05:27] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.18.2.0
+[22:05:27] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.4.0-b1877
+[22:05:27] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:05:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:05:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:05:27] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[22:05:27] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[22:05:27] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Enabling MysqlEconomyBank v1.16.3
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Using economy system: Essentials Economy
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Using permission system: SuperPerms
+[22:05:27] [Server thread/WARN]: [MysqlEconomyBank] Failed to hook into TitleManager, disabling action bar messages.
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Loading the config file...
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Using MySQL as Datasource...
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Connecting to the database...
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Database connection successful!
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] Interest task is disabled.
+[22:05:27] [Server thread/INFO]: [MysqlEconomyBank] MysqlEconomyBank has been successfully loaded!
+[22:05:27] [Server thread/INFO]: [ArmorStandEditor] Enabling ArmorStandEditor v1.8-0.1.5BETA
+[22:05:27] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.2.1
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v2.1.7
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Found locale file en_us.json
+[22:05:27] [Server thread/WARN]: [AuctionHouse] [1;33mA backup of the database has been saved with .backup extension.[0m
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Using NMS version v1_8_R3
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Using en_us locale
+[22:05:27] [Server thread/INFO]: [AuctionHouse] Loaded 1 listing
+[22:05:27] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.9.0
+[22:05:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[22:05:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:05:27] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[22:05:27] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[22:05:27] [Server thread/INFO]: No kits found to migrate.
+[22:05:27] [Server thread/INFO]: Loaded 852 items from items.csv.
+[22:05:27] [Server thread/INFO]: Using locale th_TH
+[22:05:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:05:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:05:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:05:27] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:05:27] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[22:05:27] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[22:05:27] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:05:27] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[22:05:27] [Server thread/ERROR]: No license key found! Please visit https://essentialsx.net/geoip for first time setup instructions.
+[22:05:27] [Server thread/ERROR]: ?7ไม่สามารถอ่านฐานข้อมูลที่ใช้ระบุตำแหน่งที่ตั้งของไอพี!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:347) ~[?:?]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:261) ~[?:?]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:216) ~[?:?]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:52) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.reload(CraftServer.java:741) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.Bukkit.reload(Bukkit.java:535) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:25) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641) [server.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchServerCommand(CraftServer.java:627) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.aO(DedicatedServer.java:412) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:375) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:832) [?:?]
+[22:05:27] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[22:05:27] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[22:05:27] [Server thread/INFO]: [Trading] Enabling Trading v3.2
+[22:05:27] [Server thread/INFO]: [Trading] Trading has been enabled
+[22:05:27] [Server thread/INFO]: [Trading] Vault and Economy have been found!
+[22:05:27] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.2.0
+[22:05:27] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:05:27] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.18.2.0
+[22:05:27] [Server thread/WARN]: XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[22:05:27] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[22:05:27] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.4.0-b1877
+[22:05:28] [Server thread/INFO]: [AuthMe] Connection arguments loaded, Hikari ConnectionPool ready!
+[22:05:28] [Server thread/WARN]: [Server thread] INFO fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource - AuthMeMYSQLPool - Starting...
+
+[22:05:28] [Server thread/WARN]: [Server thread] INFO fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase - AuthMeMYSQLPool - Driver does not support get/set network timeout for connections. (Receiver class com.mysql.jdbc.JDBC4Connection does not define or inherit an implementation of the resolved method 'abstract int getNetworkTimeout()' of interface java.sql.Connection.)
+
+[22:05:28] [Server thread/WARN]: [Server thread] INFO fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource - AuthMeMYSQLPool - Start completed.
+
+[22:05:28] [Server thread/INFO]: [AuthMe] MySQL setup finished
+[22:05:28] [Server thread/INFO]: [AuthMe] Hooked into Vault!
+[22:05:28] [Thread-10/WARN]: [AuthMe] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[22:05:28] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[22:05:28] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[22:05:28] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[22:05:28] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[22:05:28] [Server thread/INFO]: [AuthMe] AuthMe 5.4.0 build n.1877 correctly enabled!
+[22:05:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:05:28] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+
+[22:05:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[22:05:28] [Server thread/WARN]: [ViaVersion] This version of Minecraft is over half a decade old and support for it will be fully dropped eventually. Please upgrade to a newer version to avoid encountering bugs and stability issues that have long been fixed.
+[22:05:28] [Server thread/INFO]: [AuctionHouse] Registered Service Provider Vault for Vault's Economy API
+[22:05:28] [Server thread/WARN]: [AuctionHouse] [1;33mWarning! No plugin supporting Vault's Chat API was found![0m
+[22:05:28] [Server thread/WARN]: [AuctionHouse] [1;33mMeta-based auction limits are disabled.[0m
+[22:05:28] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[22:05:28] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[22:05:29] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[22:05:30] [Thread-11/INFO]: UUID of player Wissarut is def412d9-4c34-3a2e-a9be-b6fcdb367abd
+[22:05:30] [Server thread/INFO]: Wissarut[/172.16.4.106:54010] logged in with entity id 239 at ([world]22.847855119052447, 69.0, 238.90399716501526)
+[22:05:30] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[22:05:30] [Craft Scheduler Thread - 0/WARN]: Unable to fetch GeoIP data for Wissarut. Please ensure that your license key and configuration are correct.
+[22:05:30] [Server thread/INFO]: [0;37;1m[21m[ [0;31;22m[21mB[0;31;1m[21mR[0;33;22m[21mO[0;33;1m[21mA[0;32;1m[21mD[0;36;1m[21mC[0;32;22m[21mA[0;35;1m[21mS[0;35;22m[21mT [0;37;1m[21m]  [0;37;22mWissarut[0;33;22m ได้เข้าร่วมเซิฟเวอร์[m
+
+[22:05:40] [Server thread/INFO]: [AuthMe] Wissarut registered 172.16.4.106
+[22:05:40] [Craft Scheduler Thread - 1/INFO]: [AuthMe] Wissarut logged in!
+[22:08:28] [Server thread/INFO]: Opped Wissarut
+[22:08:34] [Server thread/INFO]: Wissarut issued server command: /time set day
+[22:09:18] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[22:09:18] [Server thread/INFO]: Rcon issued server command: /m wissarut คุณได้ทำการสั่งซื้อ ทอง ในราคา 50 บาท
+[22:09:18] [Server thread/INFO]: [0;33;22m[[0;31;1mme[0;33;22m -> [0;31;1mWissarut[m[0;33;22m] [mคุณได้ทำการสั่งซื้อ ทอง ในราคา 50 บาท[m
+
+[22:09:18] [Server thread/INFO]: Rcon issued server command: /give wissarut 266 9

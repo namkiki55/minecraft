@@ -1,0 +1,21 @@
+lastAccountName: Nemo100
+timestamps:
+  login: 1612027937086
+  lastteleport: 1612027973951
+  logout: 1612027993798
+ipAddress: 180.180.200.164
+lastlocation:
+  world: newspawn
+  x: 1462.1638996113727
+  y: 78.0
+  z: 292.84848758886045
+  yaw: 40.95874
+  pitch: 0.7668016
+logoutlocation:
+  world: Survival1
+  x: -138.36973162036844
+  y: 64.0
+  z: 115.55937464747687
+  yaw: -45.49173
+  pitch: 17.09966
+money: '2525000'

@@ -1,0 +1,20 @@
+lastAccountName: MOKO
+timestamps:
+  login: 1614434021772
+  logout: 1614437183141
+ipAddress: 184.22.20.233
+lastlocation:
+  world: world
+  x: -711.5
+  y: -1.0
+  z: 398.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1495.6581018563054
+  y: 78.0
+  z: 274.1153996014184
+  yaw: 175.92151
+  pitch: 37.555347
+money: '25000'

@@ -1,0 +1,20 @@
+lastAccountName: Banger_DISBO
+timestamps:
+  login: 1612064339609
+  logout: 1612064359731
+ipAddress: 171.6.218.243
+lastlocation:
+  world: world
+  x: -700.5
+  y: 67.0
+  z: 398.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1474.748750179242
+  y: 82.5
+  z: 265.3455375078485
+  yaw: 216.45856
+  pitch: 30.316782
+money: '2525000'

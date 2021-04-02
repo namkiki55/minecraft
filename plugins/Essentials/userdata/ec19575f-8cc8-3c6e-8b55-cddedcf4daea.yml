@@ -1,0 +1,20 @@
+lastAccountName: znon504
+timestamps:
+  login: 1610863480757
+  logout: 1610862815407
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: newspawn
+  x: 1466.925558171855
+  y: 78.0
+  z: 252.63262531174234
+  yaw: 137.80386
+  pitch: 29.964996
+lastlocation:
+  world: newspawn
+  x: 1470.8731287909197
+  y: 78.0
+  z: 290.50177208498326
+  yaw: -127.69618
+  pitch: 36.86499
+money: '2525000'

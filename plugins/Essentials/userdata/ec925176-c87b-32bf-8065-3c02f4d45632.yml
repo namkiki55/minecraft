@@ -1,0 +1,29 @@
+lastAccountName: 22AirCrafts
+timestamps:
+  login: 1616855490257
+  logout: 1616866244533
+  lastteleport: 1616865387332
+ipAddress: 58.8.213.203
+lastlocation:
+  world: newspawn
+  x: 1463.28718584532
+  y: 78.0
+  z: 252.9638627990202
+  yaw: 120.4996
+  pitch: 6.547146
+logoutlocation:
+  world: Survival1
+  x: 555168.380097163
+  y: 74.0
+  z: -2915.1332577774606
+  yaw: -188.58946
+  pitch: 24.150211
+money: '583.875'
+homes:
+  home:
+    world: Survival1
+    x: 555171.3146856815
+    y: 77.0
+    z: -2895.041095960427
+    yaw: -285.47922
+    pitch: 4.5004

@@ -1,0 +1,20 @@
+lastAccountName: Pic0z
+timestamps:
+  login: 1612208317328
+  logout: 1612208501636
+ipAddress: 49.228.249.250
+lastlocation:
+  world: world
+  x: -704.5001803935011
+  y: 69.0
+  z: 410.5195991694927
+  yaw: 0.6
+  pitch: 0.3
+logoutlocation:
+  world: newspawn
+  x: 1473.3468741662703
+  y: 78.0
+  z: 244.67770446807896
+  yaw: 323.85965
+  pitch: 18.300022
+money: '2525000'

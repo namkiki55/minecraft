@@ -1,0 +1,21 @@
+lastAccountName: uuuu
+timestamps:
+  login: 1612838463672
+  lastteleport: 1612838429687
+  logout: 1612838589528
+ipAddress: 49.228.18.4
+lastlocation:
+  world: newspawn
+  x: 1468.9118019027508
+  y: 78.0
+  z: 255.23491499236454
+  yaw: 100.65863
+  pitch: 9.616797
+logoutlocation:
+  world: Survival1
+  x: -6.850892553175719
+  y: 64.0
+  z: 131.5165880094754
+  yaw: 26.699951
+  pitch: 33.450043
+money: '2525000'

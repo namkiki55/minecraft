@@ -1,0 +1,20 @@
+lastAccountName: superblocker1234
+timestamps:
+  login: 1614848772464
+  logout: 1614848956702
+ipAddress: 49.228.33.222
+lastlocation:
+  world: world
+  x: -704.5
+  y: -1.0
+  z: 402.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1477.0163843117516
+  y: 82.5
+  z: 266.70325818855974
+  yaw: -188.24193
+  pitch: 45.89997
+money: '25000'

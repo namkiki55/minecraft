@@ -1,0 +1,20 @@
+lastAccountName: howtoplay
+timestamps:
+  login: 1612934711590
+  logout: 1612934816343
+ipAddress: 118.172.158.161
+lastlocation:
+  world: world
+  x: -714.5
+  y: 67.0
+  z: 404.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1486.701277292786
+  y: 79.00133597911214
+  z: 251.43212901459844
+  yaw: 223.96613
+  pitch: 42.753677
+money: '2525000'

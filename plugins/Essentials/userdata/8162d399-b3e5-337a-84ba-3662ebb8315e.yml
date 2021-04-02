@@ -1,0 +1,21 @@
+lastAccountName: Phanthmitr
+timestamps:
+  login: 1613204408375
+  logout: 1613204980412
+  lastteleport: 1613204601495
+ipAddress: 49.228.239.62
+lastlocation:
+  world: newspawn
+  x: 1499.699999988079
+  y: 78.0
+  z: 265.0296080470882
+  yaw: -78.43296
+  pitch: 15.529712
+logoutlocation:
+  world: Sv2
+  x: 10.773750471888128
+  y: 65.0
+  z: -116.91702622747714
+  yaw: 276.4615
+  pitch: 16.456997
+money: '2525000'

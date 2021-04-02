@@ -1,0 +1,22 @@
+lastAccountName: godgamer1234
+timestamps:
+  login: 1614734857803
+  logout: 1614735429520
+  lastteleport: 1614735038126
+ipAddress: 125.26.245.221
+lastlocation:
+  world: newspawn
+  x: 1459.7899183859347
+  y: 78.0
+  z: 253.20909352461695
+  yaw: 127.98759
+  pitch: 2.2089074
+logoutlocation:
+  world: Survival1
+  x: 555520.5441017337
+  y: 65.0
+  z: 134.302446551356
+  yaw: -343.05835
+  pitch: -14.8499975
+godmode: false
+money: '25000'

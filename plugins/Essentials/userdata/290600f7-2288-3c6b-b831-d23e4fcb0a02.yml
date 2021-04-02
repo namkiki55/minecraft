@@ -1,0 +1,20 @@
+lastAccountName: RyanHayes08
+timestamps:
+  login: 1612068057601
+  logout: 1612068099354
+ipAddress: 124.122.232.210
+lastlocation:
+  world: world
+  x: -697.5
+  y: 66.0
+  z: 401.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1365.133896391753
+  y: 78.0
+  z: 268.37965292467146
+  yaw: 272.15192
+  pitch: 41.870777
+money: '2525000'

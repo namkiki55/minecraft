@@ -1,0 +1,10 @@
+logoutlocation:
+  world: world
+  x: -696.5
+  y: 66.0
+  z: 404.5
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  logout: 1612078592172
+money: '2525000'

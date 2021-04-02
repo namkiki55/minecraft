@@ -1,0 +1,20 @@
+lastAccountName: sonic_boom370
+timestamps:
+  login: 1613293482268
+  logout: 1613293502937
+ipAddress: 1.47.203.60
+lastlocation:
+  world: world
+  x: -699.5
+  y: 67.0
+  z: 408.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1476.681683437407
+  y: 82.0
+  z: 268.93575932845033
+  yaw: 179.10832
+  pitch: 48.600002
+money: '2525000'

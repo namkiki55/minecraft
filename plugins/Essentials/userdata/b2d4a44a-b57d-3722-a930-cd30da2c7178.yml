@@ -1,0 +1,26 @@
+lastAccountName: xXKakXx
+timestamps:
+  login: 1611459234218
+  logout: 1611459284118
+  lastteleport: 1611459043898
+ipAddress: 171.100.79.55
+lastlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+logoutlocation:
+  world: newspawn
+  x: 1475.7302499334014
+  y: 83.0
+  z: 266.4797677326326
+  yaw: 92.70032
+  pitch: 90.0
+powertools:
+  diamond_helmet:
+  - /sphere 0 20
+  diamond_sword:
+  - 'ebc &4&l&c&lSevrer Hacked by #HACKIQSQUAD'
+money: '2525000'

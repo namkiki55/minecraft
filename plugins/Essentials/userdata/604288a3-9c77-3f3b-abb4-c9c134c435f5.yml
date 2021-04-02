@@ -1,0 +1,21 @@
+lastAccountName: _XomSkarin_
+timestamps:
+  login: 1615595090599
+  logout: 1615595099717
+  lastteleport: 1612055863129
+ipAddress: 171.96.220.82
+lastlocation:
+  world: Survival1
+  x: 176.21477906634505
+  y: 64.0
+  z: -28.522967593999585
+  yaw: -266.17883
+  pitch: -14.582554
+logoutlocation:
+  world: Survival1
+  x: 63.76711862612245
+  y: 63.0
+  z: 112.59910755894272
+  yaw: 148.27286
+  pitch: 10.199999
+money: '2525000'

@@ -1,0 +1,20 @@
+lastAccountName: Jeumill
+timestamps:
+  login: 1611980748055
+  logout: 1611980762336
+ipAddress: 110.169.249.204
+lastlocation:
+  world: world
+  x: -700.5
+  y: 67.0
+  z: 402.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1455.9387833487312
+  y: 78.0
+  z: 278.695769587828
+  yaw: 138.00862
+  pitch: 41.86679
+money: '2525000'

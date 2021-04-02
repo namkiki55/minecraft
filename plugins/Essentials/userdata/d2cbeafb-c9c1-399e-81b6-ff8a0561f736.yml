@@ -1,0 +1,20 @@
+lastAccountName: CustomPayload
+timestamps:
+  login: 1612688325124
+  logout: 1612688302722
+ipAddress: 49.228.102.14
+lastlocation:
+  world: world
+  x: -702.5
+  y: 68.0
+  z: 416.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1467.699999988079
+  y: 78.0
+  z: 268.30000001192093
+  yaw: 40.33571
+  pitch: 33.928215
+money: '2525000'

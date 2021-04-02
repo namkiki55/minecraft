@@ -1,0 +1,22 @@
+lastAccountName: NongNamoNaja
+timestamps:
+  login: 1612585821367
+  lastteleport: 1612586046175
+  logout: 1612586247103
+ipAddress: 124.122.35.99
+lastlocation:
+  world: newspawn
+  x: 1474.2953219050667
+  y: 82.5
+  z: 266.4999530218429
+  yaw: 90.00862
+  pitch: 16.216793
+godmode: false
+logoutlocation:
+  world: newspawn
+  x: 1473.4678545577367
+  y: 82.0
+  z: 266.49422689357544
+  yaw: 89.64245
+  pitch: 16.216793
+money: '2525000'

@@ -1,0 +1,29 @@
+lastAccountName: Blackgodji
+timestamps:
+  login: 1613103906802
+  lastteleport: 1613105816072
+  logout: 1613108124955
+ipAddress: 27.55.77.129
+lastlocation:
+  world: UHCCL
+  x: 100.5
+  y: 85.0
+  z: 174.5
+  yaw: -104.3598
+  pitch: 31.349974
+money: '2525000'
+homes:
+  home:
+    world: Survival1
+    x: 555522.9122239263
+    y: 63.0
+    z: -157.8331100560095
+    yaw: -122.100044
+    pitch: 8.099985
+logoutlocation:
+  world: UHCCL
+  x: 100.5
+  y: 85.0
+  z: 174.5
+  yaw: -104.3598
+  pitch: 31.349974

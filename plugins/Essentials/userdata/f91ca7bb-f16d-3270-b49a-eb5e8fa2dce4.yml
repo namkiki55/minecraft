@@ -1,0 +1,21 @@
+lastAccountName: svever
+timestamps:
+  login: 1616900064310
+  logout: 1616900223424
+  lastteleport: 1616900172424
+ipAddress: 223.205.223.115
+lastlocation:
+  world: newspawn
+  x: 1468.19460030995
+  y: 78.0
+  z: 280.9574978669269
+  yaw: -15.591828
+  pitch: 23.099997
+logoutlocation:
+  world: newspawn
+  x: 1466.613838893453
+  y: 78.0
+  z: 265.17575967834193
+  yaw: 118.705315
+  pitch: 14.347135
+money: '2425500.0'

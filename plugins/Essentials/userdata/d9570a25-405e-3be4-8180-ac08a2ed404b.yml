@@ -1,0 +1,29 @@
+lastAccountName: xZoCutZx
+timestamps:
+  login: 1616674757350
+  logout: 1616674834451
+  lastteleport: 1616674776231
+ipAddress: 124.122.29.176
+lastlocation:
+  world: Survival1
+  x: 558586.228436665
+  y: 82.0
+  z: 62.214224149537166
+  yaw: 227.79883
+  pitch: 22.949924
+logoutlocation:
+  world: Survival1
+  x: 558481.2959542685
+  y: 65.0
+  z: -312.9571905515203
+  yaw: 299.2915
+  pitch: 9.082763
+money: '0.030'
+homes:
+  home:
+    world: Survival1
+    x: 558472.560805767
+    y: 65.0
+    z: -319.5248853011028
+    yaw: 262.77466
+    pitch: 90.0

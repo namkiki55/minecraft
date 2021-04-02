@@ -1,0 +1,20 @@
+lastAccountName: YoKo999
+timestamps:
+  login: 1612953430347
+  logout: 1612953439447
+ipAddress: 171.101.95.247
+lastlocation:
+  world: world
+  x: -704.5
+  y: 68.0
+  z: 405.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1469.9073547791147
+  y: 82.0
+  z: 270.28433164860814
+  yaw: 157.6586
+  pitch: 13.816799
+money: '2525000'

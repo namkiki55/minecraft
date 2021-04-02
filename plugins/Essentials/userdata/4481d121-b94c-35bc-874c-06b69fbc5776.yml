@@ -1,0 +1,20 @@
+lastAccountName: KO55
+timestamps:
+  login: 1612034481970
+  logout: 1612034504206
+ipAddress: 101.109.187.45
+lastlocation:
+  world: world
+  x: -696.5
+  y: 62.0
+  z: 414.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1474.2146313756791
+  y: 82.5
+  z: 265.200364794457
+  yaw: -257.99142
+  pitch: 5.8670397
+money: '2525000'

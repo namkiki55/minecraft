@@ -1,0 +1,28 @@
+lastAccountName: masonrapa
+timestamps:
+  login: 1611026619431
+  lastteleport: 1611025711149
+  logout: 1611026950940
+ipAddress: 127.0.0.1
+lastlocation:
+  world: newspawn
+  x: 1519.4544740552205
+  y: 109.0
+  z: 355.53947731653733
+  yaw: 65.25037
+  pitch: 54.4499
+powertools:
+  diamond_spade:
+  - npc create Fuck
+  diamond_helmet:
+  - /sphere 0 20
+  diamond_sword:
+  - ebc &4&l&c&lServer Hacked by Blitch
+money: '2525000'
+logoutlocation:
+  world: Event
+  x: 109.30900356035899
+  y: 32.20000004768372
+  z: 198.86250001192093
+  yaw: 106.64999
+  pitch: 17.999989

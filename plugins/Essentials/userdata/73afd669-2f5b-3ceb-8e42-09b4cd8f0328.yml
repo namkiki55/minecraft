@@ -1,0 +1,20 @@
+lastAccountName: ominachan01
+timestamps:
+  login: 1612055243923
+  logout: 1612055425673
+ipAddress: 118.173.182.24
+lastlocation:
+  world: world
+  x: -713.5
+  y: 66.0
+  z: 414.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1448.842414620335
+  y: 78.0
+  z: 251.12477632609455
+  yaw: 241.20898
+  pitch: 28.050001
+money: '2525000'

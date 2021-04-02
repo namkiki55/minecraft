@@ -1,0 +1,20 @@
+lastAccountName: CGGG1ZA
+timestamps:
+  login: 1613284676121
+  logout: 1613284685785
+ipAddress: 110.78.183.22
+lastlocation:
+  world: world
+  x: -702.5
+  y: 69.0
+  z: 412.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1495.1570348446553
+  y: 78.0
+  z: 263.4772263203897
+  yaw: -230.70815
+  pitch: 18.6744
+money: '25000'

@@ -1,0 +1,29 @@
+lastAccountName: gundam2911
+timestamps:
+  login: 1612199461856
+  lastteleport: 1612200737052
+  logout: 1612200848342
+ipAddress: 110.168.53.176
+lastlocation:
+  world: Survival1
+  x: -0.5931666561266493
+  y: 89.0
+  z: -722.8573660625436
+  yaw: 244.19579
+  pitch: 32.69993
+homes:
+  home:
+    world: Survival1
+    x: 12.417584124733395
+    y: 88.0
+    z: -727.87632623985
+    yaw: 14.391144
+    pitch: 84.04794
+logoutlocation:
+  world: newspawn
+  x: 1657.5614872284743
+  y: 64.0
+  z: 211.38821373894388
+  yaw: 298.50873
+  pitch: -90.0
+money: '2525000'

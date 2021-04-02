@@ -1,0 +1,21 @@
+lastAccountName: NakNotFound
+timestamps:
+  login: 1611976384395
+  lastteleport: 1611977580648
+  logout: 1611977667894
+ipAddress: 184.22.124.113
+lastlocation:
+  world: Survival1
+  x: 5.948571840410119
+  y: 72.0
+  z: 29.14474103266762
+  yaw: 23.4
+  pitch: 16.350004
+logoutlocation:
+  world: newspawn
+  x: 1474.6970162409707
+  y: 82.0
+  z: 270.0606167920203
+  yaw: -186.05322
+  pitch: 37.215034
+money: '2525000'

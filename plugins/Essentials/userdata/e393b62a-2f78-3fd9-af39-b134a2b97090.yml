@@ -1,0 +1,20 @@
+lastAccountName: MINECARFF
+timestamps:
+  login: 1612235450514
+  logout: 1612235450578
+ipAddress: 223.205.236.201
+lastlocation:
+  world: world
+  x: -713.5
+  y: 67.0
+  z: 406.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1479.699999988079
+  y: 79.24918707874468
+  z: 286.9621153207966
+  yaw: 185.8202
+  pitch: 44.19693
+money: '2525000'

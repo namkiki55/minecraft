@@ -1,0 +1,91 @@
+lastAccountName: _zNungChristz_
+timestamps:
+  login: 1617283358622
+  lastteleport: 1617283379822
+  logout: 1617281372614
+  mute: 0
+ipAddress: 171.101.69.57
+lastlocation:
+  world: Survival1
+  x: 63.58780700041768
+  y: 81.4873916938488
+  z: 150.13117315909378
+  yaw: -274.6795
+  pitch: 25.523462
+logoutlocation:
+  world: Survival1
+  x: 87.7597146045773
+  y: 67.0
+  z: 153.67420921305268
+  yaw: -100.529816
+  pitch: -1.1765128
+money: '0'
+godmode: false
+afk: false
+homes:
+  _xomskarin_:
+    world: Survival1
+    x: 69.48751610762946
+    y: 67.0
+    z: 148.98315489024714
+    yaw: -79.38019
+    pitch: 9.773494
+  snowtown:
+    world: Survival1
+    x: 616.2137756943428
+    y: 64.0
+    z: 2892.1875186893867
+    yaw: 273.18
+    pitch: 3.387282
+  bar:
+    world: Survival1
+    x: -190.4905229621515
+    y: 87.0625
+    z: 41.30864461900897
+    yaw: -359.45813
+    pitch: 2.8778794
+  iceplains:
+    world: Survival1
+    x: 419.5230211229832
+    y: 62.0
+    z: 3172.5047112007605
+    yaw: -0.0284729
+    pitch: -2.8963072
+  event:
+    world: Event
+    x: 391.97769061762494
+    y: 4.0
+    z: 1447.6993991146446
+    yaw: -180.48785
+    pitch: 2.1001534
+  hbd:
+    world: Survival1
+    x: -101.39588473717447
+    y: 73.0
+    z: -273.73276295976484
+    yaw: -177.83301
+    pitch: 22.291216
+  home:
+    world: Sv2
+    x: 39.497503735368056
+    y: 67.0
+    z: 373.50309543993137
+    yaw: 89.396416
+    pitch: 5.5514226
+  among123:
+    world: SvSand
+    x: 1618.2489532194484
+    y: 79.875
+    z: 292.60882373386767
+    yaw: -154.16321
+    pitch: 79.20002
+  villahouse:
+    world: Survival1
+    x: 60.37628689012613
+    y: 83.0
+    z: 2916.875502695185
+    yaw: -205.47229
+    pitch: 2.6999903
+nickname: _zNungChristz_
+teleportenabled: true
+muted: false

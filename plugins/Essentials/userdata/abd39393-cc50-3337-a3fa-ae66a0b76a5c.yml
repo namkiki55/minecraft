@@ -1,0 +1,20 @@
+lastAccountName: ProGamingPoTH
+timestamps:
+  login: 1612248637492
+  logout: 1612248730362
+ipAddress: 171.98.39.73
+lastlocation:
+  world: world
+  x: -699.5
+  y: 67.0
+  z: 406.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1478.785021921323
+  y: 79.90291669633328
+  z: 277.86169116049405
+  yaw: -21.063282
+  pitch: 24.150145
+money: '2525000'

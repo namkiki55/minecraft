@@ -1,0 +1,20 @@
+lastAccountName: t2ncp
+timestamps:
+  login: 1610751476337
+  logout: 1610751525587
+ipAddress: 171.101.98.217
+lastlocation:
+  world: spawn2
+  x: -4.755490205871272
+  y: 5.0
+  z: 110.39187415361639
+  yaw: 5.423018
+  pitch: -1.7857761
+logoutlocation:
+  world: newspawn
+  x: 1414.300000011921
+  y: 64.0
+  z: 262.30000001192093
+  yaw: 175.72937
+  pitch: -0.9587725
+money: '2525000'

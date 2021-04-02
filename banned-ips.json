@@ -1,0 +1,44 @@
+[
+  {
+    "ip": "124.12.19.228",
+    "created": "2564-03-03 10:19:38 +0700",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "1.10.249.254",
+    "created": "2564-02-21 15:41:37 +0700",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "§8(§eระบบ§8) §b≫  §7ไม่ดีเลยนะคับ."
+  },
+  {
+    "ip": "Niceaiq",
+    "created": "2564-02-21 15:33:28 +0700",
+    "source": "§7『§7§l §4§l§o§mＯ§c§l§oＷ§6§l§o§nＮ§e§l§oＥ§f§l§oＲ§7 』§c§fPoom_P5channel1§r",
+    "expires": "forever",
+    "reason": "§8(§eระบบ§8) §b≫  §7ไม่ดีเลยนะคับ."
+  },
+  {
+    "ip": "Nicesiq",
+    "created": "2564-02-21 15:33:30 +0700",
+    "source": "§7『§7§l §4§l§o§mＯ§c§l§oＷ§6§l§o§nＮ§e§l§oＥ§f§l§oＲ§7 』§c§fPoom_P5channel1§r",
+    "expires": "forever",
+    "reason": "§8(§eระบบ§8) §b≫  §7ไม่ดีเลยนะคับ."
+  },
+  {
+    "ip": "171.97.122.148",
+    "created": "2564-03-16 20:05:31 +0700",
+    "source": "Poom_P5channel1",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "124.120.19.228",
+    "created": "2564-03-20 09:01:42 +0700",
+    "source": "§7『§7§l §4§l§o§mＯ§c§l§oＷ§6§l§o§nＮ§e§l§oＥ§f§l§oＲ§7 』§c§fPoom_P5channel1§r",
+    "expires": "forever",
+    "reason": "§8(§eระบบ§8) §b≫  §7ไม่ดีเลยนะคับ."
+  }
+]

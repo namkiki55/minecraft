@@ -1,0 +1,20 @@
+lastAccountName: music
+timestamps:
+  login: 1612142309504
+  logout: 1612142875354
+ipAddress: 110.168.234.202
+lastlocation:
+  world: world
+  x: -707.5
+  y: 69.0
+  z: 411.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: newspawn
+  x: 1374.088297891662
+  y: 78.0
+  z: 290.69999998807907
+  yaw: 11.406128
+  pitch: 23.716843
+money: '2525000'
