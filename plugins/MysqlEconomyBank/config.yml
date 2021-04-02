@@ -10,8 +10,8 @@ database:
         port: 3306
         databaseName: 'villacraft'
         tableName: 'meb_accounts'
-        user: 'root'
-        password: ''
+        user: 'sharker'
+        password: 'P@ssw0rd1234'
         ssl: false
 
 #General settings
